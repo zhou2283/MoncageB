@@ -19,7 +19,7 @@ public class MarkPosition01 : MarkPositionBase
 		    light.GetComponent<MeshRenderer>().material.DOVector(new Vector4(0, 1, 0, 0), "_Emission", 0.2f);
 		    GameObject.Find("handleMod").GetComponent<AnimatePartBase>().EnableIsConnectActive();
 		    exitIsActive = true;
-		    return 0.2f;
+		    return 0.0f;
 	    }
 	    else if(phase == 1)
 	    {

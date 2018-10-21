@@ -56,6 +56,7 @@ public class SaveManager : UnitySingleton<SaveManager> {
             {
                 XmlElement sceneElement = xml.CreateElement("scene");
                 sceneElement.SetAttribute("name", scene.name);
+                sceneElement.SetAttribute("moveState", scene.GetComponent<SceneBase>().moveState.ToString());
                 zoneElement.AppendChild(sceneElement);
                 //set zone-active-scene
                 if (scene.gameObject.activeSelf == true)

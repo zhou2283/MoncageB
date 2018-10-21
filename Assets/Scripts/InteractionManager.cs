@@ -27,7 +27,7 @@ public class InteractionManager : MonoBehaviour
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetMouseButtonDown(0))
+		if (Input.GetMouseButtonDown(0) && GameControlGlobal.Instance.INTERACTION_IS_ACTIVE)
 		{
 			
 			ray = mainCameraBg.ScreenPointToRay(Input.mousePosition);

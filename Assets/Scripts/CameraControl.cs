@@ -43,7 +43,6 @@ public class CameraControl : MonoBehaviour {
     float maxDownAngleWithBuffer = -14f;
     
     //all bools
-    bool rotateIsActive = true;
     bool isBounceBack = false;
     bool isSnapping = false;
 
@@ -63,7 +62,7 @@ public class CameraControl : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         //move part
-        if (Input.GetMouseButton(1) && rotateIsActive)
+        if (Input.GetMouseButton(1) && GameControlGlobal.Instance.INTERACTION_IS_ACTIVE)
         {
             fMouseX = Input.GetAxis("Mouse X");
             fMouseY = Input.GetAxis("Mouse Y");
@@ -80,8 +79,6 @@ public class CameraControl : MonoBehaviour {
         }
         else
         {
-            //speedV = Mathf.Lerp(speedV, 0, Time.deltaTime * 5f);
-            //speedH = Mathf.Lerp(speedH, 0, Time.deltaTime * 5f);
             fMouseX = Mathf.Lerp(fMouseX, 0, Time.deltaTime * 5f);
             fMouseY = Mathf.Lerp(fMouseY, 0, Time.deltaTime * 5f);
 
@@ -166,6 +163,12 @@ public class CameraControl : MonoBehaviour {
         return canSnap;
     }
 
+    public void ChangeCamera(Vector3 cameraRotation, float duration)
+    {
+        cameraPivotV.DOLocalRotate(new Vector3(cameraRotation.x, 0, 0), duration).SetEase(Ease.InOutCubic);
+        cameraPivotH.DOLocalRotate(new Vector3(0, cameraRotation.y, 0), duration).SetEase(Ease.InOutCubic);
+    }
+
     void DoTargetEvent()
     {
         float delay = 0f;
@@ -181,12 +184,12 @@ public class CameraControl : MonoBehaviour {
 
     void DisactiveRotate(float duration)
     {
-        rotateIsActive = false;
-        StartCoroutine(DelayToActiveRotate(duration + 0.05f));
+        GameControlGlobal.Instance.INTERACTION_IS_ACTIVE = false;
+        StartCoroutine(DelayToActiveRotate(duration));
     }
     IEnumerator DelayToActiveRotate(float delay)
     {
         yield return new WaitForSeconds(delay);
-        rotateIsActive = true;
+        GameControlGlobal.Instance.INTERACTION_IS_ACTIVE = true;
     }
 }
