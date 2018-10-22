@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: RenderTexPlane1
+  m_Name: RenderTexPlane0
   m_Shader: {fileID: 4800000, guid: fc7e685afc290904b844e719c970da08, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -39,7 +39,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 8400000, guid: 86f2d378379d10a4d8339aa81a7169ab, type: 2}
+        m_Texture: {fileID: 8400000, guid: 9971c57443f86284fb6af9a7eb364f46, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -69,7 +69,7 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _Stencil: 1
+    - _Stencil: 5
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
