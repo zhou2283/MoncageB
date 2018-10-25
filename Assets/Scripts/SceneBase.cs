@@ -66,4 +66,23 @@ public class SceneBase : MonoBehaviour
 	{
 		GameControlGlobal.Instance.INTERACTION_IS_ACTIVE = true;
 	}
+	
+	
+	//////////test function//////////////
+	public void MoveToNextState()
+	{
+		float duration = 2f;
+		float delay = 0f;
+		if (moveMarkArray.Length == 0 || moveMarkArray.Length == 1)
+		{
+			return;
+		}
+
+		moveState = (moveState + 1) % (moveMarkArray.Length);
+		
+		GameControlGlobal.Instance.INTERACTION_IS_ACTIVE = false;
+		sceneBody.DOLocalMove(moveMarkArray[moveState].localPosition, duration).SetEase(Ease.InOutCubic).SetDelay(delay);
+		sceneBody.DOLocalRotate(moveMarkArray[moveState].localRotation.eulerAngles, duration).SetEase(Ease.InOutCubic).SetDelay(delay);
+		sceneBody.DOScale(moveMarkArray[moveState].localScale, duration).SetEase(Ease.InOutCubic).SetDelay(delay).OnComplete(ActiveInteraction);
+	}
 }

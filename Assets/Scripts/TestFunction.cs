@@ -5,36 +5,37 @@ using DG.Tweening;
 
 public class TestFunction : MonoBehaviour
 {
-	private Transform mod;
 
-	private Transform scenePositionMarkGroup;
-
-	private List<Transform> scenePositionMarkList = new List<Transform>();
 	// Use this for initialization
 	void Start ()
 	{
-		mod = transform.Find("Mod");
-		scenePositionMarkGroup = transform.Find("ScenePositionMarkGroup");
-		foreach (Transform child in scenePositionMarkGroup)
-		{
-			scenePositionMarkList.Add(child);
-		}
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKeyDown(KeyCode.Z))
+		if (Input.GetKeyDown(KeyCode.Keypad0))
 		{
-			mod.DOMove(scenePositionMarkList[1].position, 1.5f).SetEase(Ease.InOutCubic);
-			mod.DORotate(scenePositionMarkList[1].rotation.eulerAngles, 1.5f).SetEase(Ease.InOutCubic);
-			mod.DOScale(scenePositionMarkList[1].localScale, 1.5f).SetEase(Ease.InOutCubic);
+			GameObject.Find("Zone0").transform.GetComponentInChildren<SceneBase>().MoveToNextState();
 		}
 
-		if (Input.GetKeyDown(KeyCode.X))
+		if (Input.GetKeyDown(KeyCode.Keypad1))
 		{
-			mod.DOMove(scenePositionMarkList[0].position, 1.5f).SetEase(Ease.InOutCubic);
-			mod.DORotate(scenePositionMarkList[0].rotation.eulerAngles, 1.5f).SetEase(Ease.InOutCubic);
-			mod.DOScale(scenePositionMarkList[0].localScale, 1.5f).SetEase(Ease.InOutCubic);
+			GameObject.Find("Zone1").transform.GetComponentInChildren<SceneBase>().MoveToNextState();
+		}
+		
+		if (Input.GetKeyDown(KeyCode.Keypad2))
+		{
+			GameObject.Find("Zone2").transform.GetComponentInChildren<SceneBase>().MoveToNextState();
+		}
+		
+		if (Input.GetKeyDown(KeyCode.Keypad3))
+		{
+			GameObject.Find("Zone3").transform.GetComponentInChildren<SceneBase>().MoveToNextState();
+		}
+		
+		if (Input.GetKeyDown(KeyCode.Keypad4))
+		{
+			GameObject.Find("Zone4").transform.GetComponentInChildren<SceneBase>().MoveToNextState();
 		}
 	}
 }

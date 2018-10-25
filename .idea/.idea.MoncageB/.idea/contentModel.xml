@@ -695,6 +695,7 @@
           <e p="DragAround.cs" t="Include" />
           <e p="EditorExtended" t="Include">
             <e p="ChangeMat.cs" t="Include" />
+            <e p="DisableOtherZones.cs" t="Include" />
           </e>
           <e p="GameConst.cs" t="Include" />
           <e p="GameControlGlobal.cs" t="Include" />
