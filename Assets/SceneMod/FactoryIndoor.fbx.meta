@@ -1,0 +1,811 @@
+fileFormatVersion: 2
+guid: 37132b20c96084c4c96567de439e2c9f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ANM_DropBox
+    100002: ANM_DropHandle
+    100004: ANM_HookDown
+    100006: ANM_MoveButton
+    100008: ANM_MovePanelScreen
+    100010: ANM_RollerWheelGroup
+    100012: ANM_RollerWheelGroup 1
+    100014: ANM_RopeDown
+    100016: ANM_RopeTopBlock
+    100018: ANM_TransitMachineDoor1
+    100020: ANM_TransitMachineDoor2
+    100022: ANM_TrashDoor1
+    100024: ANM_TrashDoor2
+    100026: BlackBoardFrame
+    100028: BlackBoardGroup
+    100030: BlackBoardSlider
+    100032: Bucket
+    100034: BucketBody
+    100036: BucketCover
+    100038: Cabinet
+    100040: CabinetDoorLeft
+    100042: CabinetDoorRight
+    100044: Chair1
+    100046: Chair2
+    100048: Chair3
+    100050: CNT_MoveButtonWireTop
+    100052: CNT_RopeTop
+    100054: CNT_SliderBody
+    100056: Drawer
+    100058: DropHandleGroup
+    100060: DropHandleStand
+    100062: DropHandleWire
+    100064: DropPanel
+    100066: DropPanelFrrame
+    100068: DropPanelScreen
+    100070: //RootNode
+    100072: HangerGroup
+    100074: HookRopeShell
+    100076: HookRopeStand1
+    100078: HookRopeStand2
+    100080: Main
+    100082: microwave
+    100084: Move0
+    100086: Move1
+    100088: MoveButtonGroup
+    100090: MoveButtonStand
+    100092: MoveButtonWire
+    100094: MovePanel
+    100096: MovePanelFrrame
+    100098: Other
+    100100: Other 1
+    100102: Other 2
+    100104: Other 3
+    100106: pCube288
+    100108: pCube289
+    100110: pCube290
+    100112: pCube292
+    100114: pCube293
+    100116: pCube294
+    100118: pCube295
+    100120: pCube297
+    100122: pCube299
+    100124: pCube300
+    100126: pCube314
+    100128: pCube315
+    100130: pCube316
+    100132: pCube317
+    100134: pCube319
+    100136: pCube320
+    100138: pCube321
+    100140: pCube322
+    100142: pCube323
+    100144: pCube324
+    100146: pCube325
+    100148: pCube326
+    100150: pCube327
+    100152: pCube335
+    100154: pCube336
+    100156: pCylinder100
+    100158: pCylinder101
+    100160: pCylinder102
+    100162: pCylinder103
+    100164: pCylinder104
+    100166: pCylinder110
+    100168: pCylinder113
+    100170: pCylinder114
+    100172: pCylinder140
+    100174: pCylinder141
+    100176: pCylinder75
+    100178: pCylinder94
+    100180: pCylinder95
+    100182: pCylinder96
+    100184: pCylinder97
+    100186: pCylinder99
+    100188: pTorus3
+    100190: pTorus4
+    100192: pTorus5
+    100194: pTorus6
+    100196: Ring
+    100198: RingStand1
+    100200: RingStand2
+    100202: Roller1
+    100204: Roller2
+    100206: RollerSide1
+    100208: RollerSide1 1
+    100210: RollerSide2
+    100212: RollerSide2 1
+    100214: RollerSideGroup
+    100216: RollerSideGroup 1
+    100218: RollerStand1
+    100220: RollerStand2
+    100222: RollerStand3
+    100224: RollerWheel1
+    100226: RollerWheel1 1
+    100228: RollerWheel10
+    100230: RollerWheel10 1
+    100232: RollerWheel11
+    100234: RollerWheel11 1
+    100236: RollerWheel12
+    100238: RollerWheel13
+    100240: RollerWheel14
+    100242: RollerWheel15
+    100244: RollerWheel16
+    100246: RollerWheel17
+    100248: RollerWheel18
+    100250: RollerWheel19
+    100252: RollerWheel2
+    100254: RollerWheel2 1
+    100256: RollerWheel20
+    100258: RollerWheel21
+    100260: RollerWheel22
+    100262: RollerWheel23
+    100264: RollerWheel3
+    100266: RollerWheel3 1
+    100268: RollerWheel4
+    100270: RollerWheel4 1
+    100272: RollerWheel5
+    100274: RollerWheel5 1
+    100276: RollerWheel6
+    100278: RollerWheel6 1
+    100280: RollerWheel7
+    100282: RollerWheel7 1
+    100284: RollerWheel8
+    100286: RollerWheel8 1
+    100288: RollerWheel9
+    100290: RollerWheel9 1
+    100292: RoomBody
+    100294: RopePipe
+    100296: RopePipeStand1
+    100298: RopePipeStand2
+    100300: SliderGroup
+    100302: TopPipe
+    100304: TransitMachine
+    100306: TransitMachineGroup
+    100308: TrashDoorFrame
+    100310: Trunk
+    100312: TrunkBody
+    100314: Wheel1
+    100316: Wheel2
+    100318: Wheel3
+    100320: Wheel4
+    100322: WheelGroup
+    400000: ANM_DropBox
+    400002: ANM_DropHandle
+    400004: ANM_HookDown
+    400006: ANM_MoveButton
+    400008: ANM_MovePanelScreen
+    400010: ANM_RollerWheelGroup
+    400012: ANM_RollerWheelGroup 1
+    400014: ANM_RopeDown
+    400016: ANM_RopeTopBlock
+    400018: ANM_TransitMachineDoor1
+    400020: ANM_TransitMachineDoor2
+    400022: ANM_TrashDoor1
+    400024: ANM_TrashDoor2
+    400026: BlackBoardFrame
+    400028: BlackBoardGroup
+    400030: BlackBoardSlider
+    400032: Bucket
+    400034: BucketBody
+    400036: BucketCover
+    400038: Cabinet
+    400040: CabinetDoorLeft
+    400042: CabinetDoorRight
+    400044: Chair1
+    400046: Chair2
+    400048: Chair3
+    400050: CNT_MoveButtonWireTop
+    400052: CNT_RopeTop
+    400054: CNT_SliderBody
+    400056: Drawer
+    400058: DropHandleGroup
+    400060: DropHandleStand
+    400062: DropHandleWire
+    400064: DropPanel
+    400066: DropPanelFrrame
+    400068: DropPanelScreen
+    400070: //RootNode
+    400072: HangerGroup
+    400074: HookRopeShell
+    400076: HookRopeStand1
+    400078: HookRopeStand2
+    400080: Main
+    400082: microwave
+    400084: Move0
+    400086: Move1
+    400088: MoveButtonGroup
+    400090: MoveButtonStand
+    400092: MoveButtonWire
+    400094: MovePanel
+    400096: MovePanelFrrame
+    400098: Other
+    400100: Other 1
+    400102: Other 2
+    400104: Other 3
+    400106: pCube288
+    400108: pCube289
+    400110: pCube290
+    400112: pCube292
+    400114: pCube293
+    400116: pCube294
+    400118: pCube295
+    400120: pCube297
+    400122: pCube299
+    400124: pCube300
+    400126: pCube314
+    400128: pCube315
+    400130: pCube316
+    400132: pCube317
+    400134: pCube319
+    400136: pCube320
+    400138: pCube321
+    400140: pCube322
+    400142: pCube323
+    400144: pCube324
+    400146: pCube325
+    400148: pCube326
+    400150: pCube327
+    400152: pCube335
+    400154: pCube336
+    400156: pCylinder100
+    400158: pCylinder101
+    400160: pCylinder102
+    400162: pCylinder103
+    400164: pCylinder104
+    400166: pCylinder110
+    400168: pCylinder113
+    400170: pCylinder114
+    400172: pCylinder140
+    400174: pCylinder141
+    400176: pCylinder75
+    400178: pCylinder94
+    400180: pCylinder95
+    400182: pCylinder96
+    400184: pCylinder97
+    400186: pCylinder99
+    400188: pTorus3
+    400190: pTorus4
+    400192: pTorus5
+    400194: pTorus6
+    400196: Ring
+    400198: RingStand1
+    400200: RingStand2
+    400202: Roller1
+    400204: Roller2
+    400206: RollerSide1
+    400208: RollerSide1 1
+    400210: RollerSide2
+    400212: RollerSide2 1
+    400214: RollerSideGroup
+    400216: RollerSideGroup 1
+    400218: RollerStand1
+    400220: RollerStand2
+    400222: RollerStand3
+    400224: RollerWheel1
+    400226: RollerWheel1 1
+    400228: RollerWheel10
+    400230: RollerWheel10 1
+    400232: RollerWheel11
+    400234: RollerWheel11 1
+    400236: RollerWheel12
+    400238: RollerWheel13
+    400240: RollerWheel14
+    400242: RollerWheel15
+    400244: RollerWheel16
+    400246: RollerWheel17
+    400248: RollerWheel18
+    400250: RollerWheel19
+    400252: RollerWheel2
+    400254: RollerWheel2 1
+    400256: RollerWheel20
+    400258: RollerWheel21
+    400260: RollerWheel22
+    400262: RollerWheel23
+    400264: RollerWheel3
+    400266: RollerWheel3 1
+    400268: RollerWheel4
+    400270: RollerWheel4 1
+    400272: RollerWheel5
+    400274: RollerWheel5 1
+    400276: RollerWheel6
+    400278: RollerWheel6 1
+    400280: RollerWheel7
+    400282: RollerWheel7 1
+    400284: RollerWheel8
+    400286: RollerWheel8 1
+    400288: RollerWheel9
+    400290: RollerWheel9 1
+    400292: RoomBody
+    400294: RopePipe
+    400296: RopePipeStand1
+    400298: RopePipeStand2
+    400300: SliderGroup
+    400302: TopPipe
+    400304: TransitMachine
+    400306: TransitMachineGroup
+    400308: TrashDoorFrame
+    400310: Trunk
+    400312: TrunkBody
+    400314: Wheel1
+    400316: Wheel2
+    400318: Wheel3
+    400320: Wheel4
+    400322: WheelGroup
+    2100000: Dynamic
+    2100002: ConnectPart
+    2100004: lambert1
+    2300000: ANM_DropBox
+    2300002: ANM_DropHandle
+    2300004: ANM_HookDown
+    2300006: ANM_MoveButton
+    2300008: ANM_MovePanelScreen
+    2300010: ANM_RopeDown
+    2300012: ANM_RopeTopBlock
+    2300014: ANM_TransitMachineDoor1
+    2300016: ANM_TransitMachineDoor2
+    2300018: ANM_TrashDoor1
+    2300020: ANM_TrashDoor2
+    2300022: BlackBoardFrame
+    2300024: BlackBoardSlider
+    2300026: BucketBody
+    2300028: BucketCover
+    2300030: CabinetDoorLeft
+    2300032: CabinetDoorRight
+    2300034: Chair1
+    2300036: Chair2
+    2300038: Chair3
+    2300040: CNT_MoveButtonWireTop
+    2300042: CNT_RopeTop
+    2300044: CNT_SliderBody
+    2300046: DropHandleStand
+    2300048: DropPanelFrrame
+    2300050: DropPanelScreen
+    2300052: HookRopeShell
+    2300054: HookRopeStand1
+    2300056: HookRopeStand2
+    2300058: MoveButtonStand
+    2300060: MovePanelFrrame
+    2300062: pCube288
+    2300064: pCube289
+    2300066: pCube290
+    2300068: pCube292
+    2300070: pCube293
+    2300072: pCube294
+    2300074: pCube295
+    2300076: pCube297
+    2300078: pCube299
+    2300080: pCube300
+    2300082: pCube314
+    2300084: pCube315
+    2300086: pCube316
+    2300088: pCube317
+    2300090: pCube319
+    2300092: pCube320
+    2300094: pCube321
+    2300096: pCube322
+    2300098: pCube323
+    2300100: pCube324
+    2300102: pCube325
+    2300104: pCube326
+    2300106: pCube327
+    2300108: pCube335
+    2300110: pCube336
+    2300112: pCylinder100
+    2300114: pCylinder101
+    2300116: pCylinder102
+    2300118: pCylinder103
+    2300120: pCylinder104
+    2300122: pCylinder110
+    2300124: pCylinder113
+    2300126: pCylinder114
+    2300128: pCylinder140
+    2300130: pCylinder141
+    2300132: pCylinder75
+    2300134: pCylinder94
+    2300136: pCylinder95
+    2300138: pCylinder96
+    2300140: pCylinder97
+    2300142: pCylinder99
+    2300144: pTorus3
+    2300146: pTorus4
+    2300148: pTorus5
+    2300150: pTorus6
+    2300152: Ring
+    2300154: RingStand1
+    2300156: RingStand2
+    2300158: RollerSide1
+    2300160: RollerSide1 1
+    2300162: RollerSide2
+    2300164: RollerSide2 1
+    2300166: RollerStand1
+    2300168: RollerStand2
+    2300170: RollerStand3
+    2300172: RollerWheel1
+    2300174: RollerWheel1 1
+    2300176: RollerWheel10
+    2300178: RollerWheel10 1
+    2300180: RollerWheel11
+    2300182: RollerWheel11 1
+    2300184: RollerWheel12
+    2300186: RollerWheel13
+    2300188: RollerWheel14
+    2300190: RollerWheel15
+    2300192: RollerWheel16
+    2300194: RollerWheel17
+    2300196: RollerWheel18
+    2300198: RollerWheel19
+    2300200: RollerWheel2
+    2300202: RollerWheel2 1
+    2300204: RollerWheel20
+    2300206: RollerWheel21
+    2300208: RollerWheel22
+    2300210: RollerWheel23
+    2300212: RollerWheel3
+    2300214: RollerWheel3 1
+    2300216: RollerWheel4
+    2300218: RollerWheel4 1
+    2300220: RollerWheel5
+    2300222: RollerWheel5 1
+    2300224: RollerWheel6
+    2300226: RollerWheel6 1
+    2300228: RollerWheel7
+    2300230: RollerWheel7 1
+    2300232: RollerWheel8
+    2300234: RollerWheel8 1
+    2300236: RollerWheel9
+    2300238: RollerWheel9 1
+    2300240: RoomBody
+    2300242: RopePipe
+    2300244: RopePipeStand1
+    2300246: RopePipeStand2
+    2300248: TopPipe
+    2300250: TransitMachine
+    2300252: TrashDoorFrame
+    2300254: TrunkBody
+    2300256: Wheel1
+    2300258: Wheel2
+    2300260: Wheel3
+    2300262: Wheel4
+    3300000: ANM_DropBox
+    3300002: ANM_DropHandle
+    3300004: ANM_HookDown
+    3300006: ANM_MoveButton
+    3300008: ANM_MovePanelScreen
+    3300010: ANM_RopeDown
+    3300012: ANM_RopeTopBlock
+    3300014: ANM_TransitMachineDoor1
+    3300016: ANM_TransitMachineDoor2
+    3300018: ANM_TrashDoor1
+    3300020: ANM_TrashDoor2
+    3300022: BlackBoardFrame
+    3300024: BlackBoardSlider
+    3300026: BucketBody
+    3300028: BucketCover
+    3300030: CabinetDoorLeft
+    3300032: CabinetDoorRight
+    3300034: Chair1
+    3300036: Chair2
+    3300038: Chair3
+    3300040: CNT_MoveButtonWireTop
+    3300042: CNT_RopeTop
+    3300044: CNT_SliderBody
+    3300046: DropHandleStand
+    3300048: DropPanelFrrame
+    3300050: DropPanelScreen
+    3300052: HookRopeShell
+    3300054: HookRopeStand1
+    3300056: HookRopeStand2
+    3300058: MoveButtonStand
+    3300060: MovePanelFrrame
+    3300062: pCube288
+    3300064: pCube289
+    3300066: pCube290
+    3300068: pCube292
+    3300070: pCube293
+    3300072: pCube294
+    3300074: pCube295
+    3300076: pCube297
+    3300078: pCube299
+    3300080: pCube300
+    3300082: pCube314
+    3300084: pCube315
+    3300086: pCube316
+    3300088: pCube317
+    3300090: pCube319
+    3300092: pCube320
+    3300094: pCube321
+    3300096: pCube322
+    3300098: pCube323
+    3300100: pCube324
+    3300102: pCube325
+    3300104: pCube326
+    3300106: pCube327
+    3300108: pCube335
+    3300110: pCube336
+    3300112: pCylinder100
+    3300114: pCylinder101
+    3300116: pCylinder102
+    3300118: pCylinder103
+    3300120: pCylinder104
+    3300122: pCylinder110
+    3300124: pCylinder113
+    3300126: pCylinder114
+    3300128: pCylinder140
+    3300130: pCylinder141
+    3300132: pCylinder75
+    3300134: pCylinder94
+    3300136: pCylinder95
+    3300138: pCylinder96
+    3300140: pCylinder97
+    3300142: pCylinder99
+    3300144: pTorus3
+    3300146: pTorus4
+    3300148: pTorus5
+    3300150: pTorus6
+    3300152: Ring
+    3300154: RingStand1
+    3300156: RingStand2
+    3300158: RollerSide1
+    3300160: RollerSide1 1
+    3300162: RollerSide2
+    3300164: RollerSide2 1
+    3300166: RollerStand1
+    3300168: RollerStand2
+    3300170: RollerStand3
+    3300172: RollerWheel1
+    3300174: RollerWheel1 1
+    3300176: RollerWheel10
+    3300178: RollerWheel10 1
+    3300180: RollerWheel11
+    3300182: RollerWheel11 1
+    3300184: RollerWheel12
+    3300186: RollerWheel13
+    3300188: RollerWheel14
+    3300190: RollerWheel15
+    3300192: RollerWheel16
+    3300194: RollerWheel17
+    3300196: RollerWheel18
+    3300198: RollerWheel19
+    3300200: RollerWheel2
+    3300202: RollerWheel2 1
+    3300204: RollerWheel20
+    3300206: RollerWheel21
+    3300208: RollerWheel22
+    3300210: RollerWheel23
+    3300212: RollerWheel3
+    3300214: RollerWheel3 1
+    3300216: RollerWheel4
+    3300218: RollerWheel4 1
+    3300220: RollerWheel5
+    3300222: RollerWheel5 1
+    3300224: RollerWheel6
+    3300226: RollerWheel6 1
+    3300228: RollerWheel7
+    3300230: RollerWheel7 1
+    3300232: RollerWheel8
+    3300234: RollerWheel8 1
+    3300236: RollerWheel9
+    3300238: RollerWheel9 1
+    3300240: RoomBody
+    3300242: RopePipe
+    3300244: RopePipeStand1
+    3300246: RopePipeStand2
+    3300248: TopPipe
+    3300250: TransitMachine
+    3300252: TrashDoorFrame
+    3300254: TrunkBody
+    3300256: Wheel1
+    3300258: Wheel2
+    3300260: Wheel3
+    3300262: Wheel4
+    4300000: ANM_HookDown
+    4300002: ANM_RopeDown
+    4300004: ANM_RopeTopBlock
+    4300006: CNT_RopeTop
+    4300008: RopePipeStand2
+    4300010: RopePipeStand1
+    4300012: RopePipe
+    4300014: RingStand2
+    4300016: RingStand1
+    4300018: Ring
+    4300020: HookRopeStand1
+    4300022: HookRopeStand2
+    4300024: HookRopeShell
+    4300026: BlackBoardFrame
+    4300028: BlackBoardSlider
+    4300030: TransitMachine
+    4300032: pCylinder114
+    4300034: pCylinder140
+    4300036: pTorus5
+    4300038: pCylinder113
+    4300040: pTorus6
+    4300042: DropPanelFrrame
+    4300044: DropPanelScreen
+    4300046: ANM_DropHandle
+    4300048: DropHandleStand
+    4300050: ANM_MovePanelScreen
+    4300052: MovePanelFrrame
+    4300054: CNT_MoveButtonWireTop
+    4300056: pCylinder141
+    4300058: pCylinder110
+    4300060: pTorus3
+    4300062: pTorus4
+    4300064: MoveButtonStand
+    4300066: ANM_MoveButton
+    4300068: pCube297
+    4300070: pCylinder95
+    4300072: pCylinder94
+    4300074: pCylinder75
+    4300076: pCube335
+    4300078: pCube336
+    4300080: ANM_DropBox
+    4300082: ANM_TrashDoor1
+    4300084: ANM_TrashDoor2
+    4300086: ANM_TransitMachineDoor1
+    4300088: ANM_TransitMachineDoor2
+    4300090: TrashDoorFrame
+    4300092: CNT_SliderBody
+    4300094: RollerSide1
+    4300096: RollerSide2
+    4300098: RollerStand1
+    4300100: RollerWheel1
+    4300102: RollerWheel2
+    4300104: RollerWheel3
+    4300106: RollerWheel4
+    4300108: RollerWheel5
+    4300110: RollerWheel6
+    4300112: RollerWheel7
+    4300114: RollerWheel8
+    4300116: RollerWheel9
+    4300118: RollerWheel10
+    4300120: RollerWheel11
+    4300122: RollerSide1
+    4300124: RollerSide2
+    4300126: RollerStand2
+    4300128: RollerStand3
+    4300130: RollerWheel1
+    4300132: RollerWheel2
+    4300134: RollerWheel3
+    4300136: RollerWheel4
+    4300138: RollerWheel5
+    4300140: RollerWheel6
+    4300142: RollerWheel7
+    4300144: RollerWheel8
+    4300146: RollerWheel9
+    4300148: RollerWheel10
+    4300150: RollerWheel11
+    4300152: RollerWheel12
+    4300154: RollerWheel13
+    4300156: RollerWheel14
+    4300158: RollerWheel15
+    4300160: RollerWheel16
+    4300162: RollerWheel17
+    4300164: RollerWheel18
+    4300166: RollerWheel19
+    4300168: RollerWheel20
+    4300170: RollerWheel21
+    4300172: RollerWheel22
+    4300174: RollerWheel23
+    4300176: BucketCover
+    4300178: BucketBody
+    4300180: CabinetDoorRight
+    4300182: CabinetDoorLeft
+    4300184: pCube300
+    4300186: pCube322
+    4300188: pCube323
+    4300190: pCube324
+    4300192: pCube325
+    4300194: pCube326
+    4300196: pCylinder103
+    4300198: pCylinder104
+    4300200: pCube314
+    4300202: pCube315
+    4300204: pCube316
+    4300206: pCube317
+    4300208: pCylinder96
+    4300210: pCylinder97
+    4300212: pCube319
+    4300214: pCube320
+    4300216: pCube321
+    4300218: pCylinder99
+    4300220: pCylinder100
+    4300222: pCylinder101
+    4300224: pCylinder102
+    4300226: pCube327
+    4300228: RoomBody
+    4300230: TopPipe
+    4300232: pCube289
+    4300234: pCube292
+    4300236: pCube293
+    4300238: pCube294
+    4300240: pCube295
+    4300242: Chair3
+    4300244: Chair2
+    4300246: Chair1
+    4300248: pCube299
+    4300250: pCube288
+    4300252: pCube290
+    4300254: TrunkBody
+    4300256: Wheel1
+    4300258: Wheel2
+    4300260: Wheel3
+    4300262: Wheel4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
