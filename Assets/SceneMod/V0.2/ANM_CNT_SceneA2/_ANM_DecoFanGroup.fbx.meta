@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 59b626ece1aec9245b96da32a26522e4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ANM_DecoFanBody
+    100004: ANM_DecoFanBody 1
+    100006: ANM_DecoFanBody 2
+    100008: ANM_DecoFanGroup
+    100010: DecoFan1
+    100012: DecoFan2
+    100014: DecoFan3
+    100016: group42
+    100018: group42 1
+    100020: group42 2
+    100022: group43
+    100024: group43 1
+    100026: group43 2
+    100028: group44
+    100030: group44 1
+    100032: group44 2
+    100034: group62
+    100036: group62 1
+    100038: group62 2
+    100040: Main
+    100042: pCube597
+    100044: pCube597 1
+    100046: pCube597 2
+    100048: pCube597 3
+    100050: pCube597 4
+    100052: pCube597 5
+    100054: pCube597 6
+    100056: pCube597 7
+    100058: pCube597 8
+    100060: pCube598
+    100062: pCube598 1
+    100064: pCube598 2
+    100066: pCube598 3
+    100068: pCube598 4
+    100070: pCube598 5
+    100072: pCube598 6
+    100074: pCube598 7
+    100076: pCube598 8
+    100078: pCylinder173
+    100080: pCylinder173 1
+    100082: pCylinder173 2
+    100084: pCylinder174
+    100086: pCylinder174 1
+    100088: pCylinder174 2
+    100090: pPipe19
+    100092: pPipe19 1
+    100094: pPipe19 2
+    100096: pSphere1
+    100098: pSphere1 1
+    100100: pSphere1 2
+    100102: Shell
+    100104: Shell 1
+    100106: Shell 2
+    400000: //RootNode
+    400002: ANM_DecoFanBody
+    400004: ANM_DecoFanBody 1
+    400006: ANM_DecoFanBody 2
+    400008: ANM_DecoFanGroup
+    400010: DecoFan1
+    400012: DecoFan2
+    400014: DecoFan3
+    400016: group42
+    400018: group42 1
+    400020: group42 2
+    400022: group43
+    400024: group43 1
+    400026: group43 2
+    400028: group44
+    400030: group44 1
+    400032: group44 2
+    400034: group62
+    400036: group62 1
+    400038: group62 2
+    400040: Main
+    400042: pCube597
+    400044: pCube597 1
+    400046: pCube597 2
+    400048: pCube597 3
+    400050: pCube597 4
+    400052: pCube597 5
+    400054: pCube597 6
+    400056: pCube597 7
+    400058: pCube597 8
+    400060: pCube598
+    400062: pCube598 1
+    400064: pCube598 2
+    400066: pCube598 3
+    400068: pCube598 4
+    400070: pCube598 5
+    400072: pCube598 6
+    400074: pCube598 7
+    400076: pCube598 8
+    400078: pCylinder173
+    400080: pCylinder173 1
+    400082: pCylinder173 2
+    400084: pCylinder174
+    400086: pCylinder174 1
+    400088: pCylinder174 2
+    400090: pPipe19
+    400092: pPipe19 1
+    400094: pPipe19 2
+    400096: pSphere1
+    400098: pSphere1 1
+    400100: pSphere1 2
+    400102: Shell
+    400104: Shell 1
+    400106: Shell 2
+    2100000: Dynamic
+    2100002: lambert1
+    2300000: pCube597
+    2300002: pCube597 1
+    2300004: pCube597 2
+    2300006: pCube597 3
+    2300008: pCube597 4
+    2300010: pCube597 5
+    2300012: pCube597 6
+    2300014: pCube597 7
+    2300016: pCube597 8
+    2300018: pCube598
+    2300020: pCube598 1
+    2300022: pCube598 2
+    2300024: pCube598 3
+    2300026: pCube598 4
+    2300028: pCube598 5
+    2300030: pCube598 6
+    2300032: pCube598 7
+    2300034: pCube598 8
+    2300036: pCylinder173
+    2300038: pCylinder173 1
+    2300040: pCylinder173 2
+    2300042: pCylinder174
+    2300044: pCylinder174 1
+    2300046: pCylinder174 2
+    2300048: pPipe19
+    2300050: pPipe19 1
+    2300052: pPipe19 2
+    2300054: pSphere1
+    2300056: pSphere1 1
+    2300058: pSphere1 2
+    3300000: pCube597
+    3300002: pCube597 1
+    3300004: pCube597 2
+    3300006: pCube597 3
+    3300008: pCube597 4
+    3300010: pCube597 5
+    3300012: pCube597 6
+    3300014: pCube597 7
+    3300016: pCube597 8
+    3300018: pCube598
+    3300020: pCube598 1
+    3300022: pCube598 2
+    3300024: pCube598 3
+    3300026: pCube598 4
+    3300028: pCube598 5
+    3300030: pCube598 6
+    3300032: pCube598 7
+    3300034: pCube598 8
+    3300036: pCylinder173
+    3300038: pCylinder173 1
+    3300040: pCylinder173 2
+    3300042: pCylinder174
+    3300044: pCylinder174 1
+    3300046: pCylinder174 2
+    3300048: pPipe19
+    3300050: pPipe19 1
+    3300052: pPipe19 2
+    3300054: pSphere1
+    3300056: pSphere1 1
+    3300058: pSphere1 2
+    4300000: pCube598
+    4300002: pCube597
+    4300004: pCube598
+    4300006: pCube597
+    4300008: pCube598
+    4300010: pCube597
+    4300012: pSphere1
+    4300014: pPipe19
+    4300016: pCylinder174
+    4300018: pCylinder173
+    4300020: pCube598
+    4300022: pCube597
+    4300024: pCube598
+    4300026: pCube597
+    4300028: pCube598
+    4300030: pCube597
+    4300032: pSphere1
+    4300034: pPipe19
+    4300036: pCylinder174
+    4300038: pCylinder173
+    4300040: pCube598
+    4300042: pCube597
+    4300044: pCube598
+    4300046: pCube597
+    4300048: pCube598
+    4300050: pCube597
+    4300052: pSphere1
+    4300054: pPipe19
+    4300056: pCylinder174
+    4300058: pCylinder173
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

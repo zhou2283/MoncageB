@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 5c685e623e3101f41ad078491fb45bd1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ANM_LabBuilding
+    100004: ANM_Lift
+    100006: ANM_LiftDoorLeft
+    100008: ANM_LiftDoorRight
+    100010: ANM_LiftRopeDown
+    100012: ANM_LiftWheel1
+    100014: ANM_LiftWheel2
+    100016: CNT_LiftRopeTop
+    100018: LabBody
+    100020: LabStand
+    100022: LiftRopeTopFake
+    100024: LiftStand
+    100026: Main
+    100028: MSK_InLab
+    100030: WheelStand1
+    100032: WheelStand2
+    100034: WireShell
+    100036: WireShell1
+    100038: WireShell2
+    100040: WireShell3
+    400000: //RootNode
+    400002: ANM_LabBuilding
+    400004: ANM_Lift
+    400006: ANM_LiftDoorLeft
+    400008: ANM_LiftDoorRight
+    400010: ANM_LiftRopeDown
+    400012: ANM_LiftWheel1
+    400014: ANM_LiftWheel2
+    400016: CNT_LiftRopeTop
+    400018: LabBody
+    400020: LabStand
+    400022: LiftRopeTopFake
+    400024: LiftStand
+    400026: Main
+    400028: MSK_InLab
+    400030: WheelStand1
+    400032: WheelStand2
+    400034: WireShell
+    400036: WireShell1
+    400038: WireShell2
+    400040: WireShell3
+    2100000: Dynamic
+    2100002: ConnectPart
+    2100004: lambert1
+    2100006: WhiteMask
+    2300000: ANM_Lift
+    2300002: ANM_LiftDoorLeft
+    2300004: ANM_LiftDoorRight
+    2300006: ANM_LiftRopeDown
+    2300008: ANM_LiftWheel1
+    2300010: ANM_LiftWheel2
+    2300012: CNT_LiftRopeTop
+    2300014: LabBody
+    2300016: LabStand
+    2300018: LiftRopeTopFake
+    2300020: LiftStand
+    2300022: MSK_InLab
+    2300024: WheelStand1
+    2300026: WheelStand2
+    2300028: WireShell
+    2300030: WireShell1
+    2300032: WireShell2
+    2300034: WireShell3
+    3300000: ANM_Lift
+    3300002: ANM_LiftDoorLeft
+    3300004: ANM_LiftDoorRight
+    3300006: ANM_LiftRopeDown
+    3300008: ANM_LiftWheel1
+    3300010: ANM_LiftWheel2
+    3300012: CNT_LiftRopeTop
+    3300014: LabBody
+    3300016: LabStand
+    3300018: LiftRopeTopFake
+    3300020: LiftStand
+    3300022: MSK_InLab
+    3300024: WheelStand1
+    3300026: WheelStand2
+    3300028: WireShell
+    3300030: WireShell1
+    3300032: WireShell2
+    3300034: WireShell3
+    4300000: ANM_LiftWheel1
+    4300002: ANM_LiftWheel2
+    4300004: ANM_Lift
+    4300006: ANM_LiftDoorLeft
+    4300008: ANM_LiftDoorRight
+    4300010: ANM_LiftRopeDown
+    4300012: CNT_LiftRopeTop
+    4300014: LiftRopeTopFake
+    4300016: WheelStand1
+    4300018: WheelStand2
+    4300020: LiftStand
+    4300022: WireShell
+    4300024: LabBody
+    4300026: MSK_InLab
+    4300028: LabStand
+    4300030: WireShell1
+    4300032: WireShell2
+    4300034: WireShell3
+    6400000: ANM_Lift
+    6400002: ANM_LiftDoorLeft
+    6400004: ANM_LiftDoorRight
+    6400006: ANM_LiftRopeDown
+    6400008: ANM_LiftWheel1
+    6400010: ANM_LiftWheel2
+    6400012: CNT_LiftRopeTop
+    6400014: LabBody
+    6400016: LabStand
+    6400018: LiftRopeTopFake
+    6400020: LiftStand
+    6400022: MSK_InLab
+    6400024: WheelStand1
+    6400026: WheelStand2
+    6400028: WireShell
+    6400030: WireShell1
+    6400032: WireShell2
+    6400034: WireShell3
+    7400000: Move
+    7400002: Idle
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConnectPart
+    second: {fileID: 2100000, guid: 61c467bfa7b1b0c44aa2607785144970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dynamic
+    second: {fileID: 2100000, guid: 31677e157c63af5438537e03ec0718f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteMask
+    second: {fileID: 2100000, guid: ae56f0b1120ebe244882984d1e1c7241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: fb672113488a0df45b58fbe8bb8213ce, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Move
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

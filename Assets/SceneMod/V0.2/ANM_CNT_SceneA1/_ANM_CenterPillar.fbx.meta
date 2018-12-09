@@ -1,0 +1,346 @@
+fileFormatVersion: 2
+guid: cecac8183f0ddef4dae1b4c6c4d07992
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ANM_CabinetBlock
+    100004: ANM_CenterDoor
+    100006: ANM_CenterPillar
+    100008: ANM_GearDown
+    100010: ANM_GearMiddle
+    100012: ANM_GearTop
+    100014: ANM_MissingGearPivot
+    100016: ANM_RotetPillar
+    100018: ANM_SubGear
+    100020: CNT_SubGearPivot
+    100022: GearMiddleRotationGroup
+    100024: HID_MissingGear
+    100026: InsidePillar
+    100028: Main
+    100030: MissingGearPivotStand
+    100032: PillarBody
+    100034: PillarGear
+    100036: Pivot1
+    100038: Pivot2
+    100040: polySurface80
+    100042: polySurface81
+    100044: polySurface82
+    100046: polySurface83
+    100048: SubGear
+    400000: //RootNode
+    400002: ANM_CabinetBlock
+    400004: ANM_CenterDoor
+    400006: ANM_CenterPillar
+    400008: ANM_GearDown
+    400010: ANM_GearMiddle
+    400012: ANM_GearTop
+    400014: ANM_MissingGearPivot
+    400016: ANM_RotetPillar
+    400018: ANM_SubGear
+    400020: CNT_SubGearPivot
+    400022: GearMiddleRotationGroup
+    400024: HID_MissingGear
+    400026: InsidePillar
+    400028: Main
+    400030: MissingGearPivotStand
+    400032: PillarBody
+    400034: PillarGear
+    400036: Pivot1
+    400038: Pivot2
+    400040: polySurface80
+    400042: polySurface81
+    400044: polySurface82
+    400046: polySurface83
+    400048: SubGear
+    2100000: Dynamic
+    2100002: lambert1
+    2100004: NeedToFind
+    2100006: ConnectPart
+    2300000: ANM_CabinetBlock
+    2300002: ANM_CenterDoor
+    2300004: ANM_GearDown
+    2300006: ANM_GearMiddle
+    2300008: ANM_GearTop
+    2300010: ANM_MissingGearPivot
+    2300012: CNT_SubGearPivot
+    2300014: HID_MissingGear
+    2300016: MissingGearPivotStand
+    2300018: PillarBody
+    2300020: PillarGear
+    2300022: Pivot1
+    2300024: Pivot2
+    2300026: polySurface80
+    2300028: polySurface81
+    2300030: polySurface82
+    2300032: polySurface83
+    2300034: SubGear
+    3300000: ANM_CabinetBlock
+    3300002: ANM_CenterDoor
+    3300004: ANM_GearDown
+    3300006: ANM_GearMiddle
+    3300008: ANM_GearTop
+    3300010: ANM_MissingGearPivot
+    3300012: CNT_SubGearPivot
+    3300014: HID_MissingGear
+    3300016: MissingGearPivotStand
+    3300018: PillarBody
+    3300020: PillarGear
+    3300022: Pivot1
+    3300024: Pivot2
+    3300026: polySurface80
+    3300028: polySurface81
+    3300030: polySurface82
+    3300032: polySurface83
+    3300034: SubGear
+    4300000: PillarBody
+    4300002: PillarGear
+    4300004: ANM_CenterDoor
+    4300006: polySurface83
+    4300008: polySurface82
+    4300010: polySurface80
+    4300012: polySurface81
+    4300014: MissingGearPivotStand
+    4300016: ANM_GearTop
+    4300018: HID_MissingGear
+    4300020: Pivot1
+    4300022: ANM_GearDown
+    4300024: ANM_MissingGearPivot
+    4300026: Pivot2
+    4300028: ANM_GearMiddle
+    4300030: SubGear
+    4300032: CNT_SubGearPivot
+    4300034: ANM_CabinetBlock
+    6400000: ANM_CabinetBlock
+    6400002: ANM_CenterDoor
+    6400004: ANM_GearDown
+    6400006: ANM_GearMiddle
+    6400008: ANM_GearTop
+    6400010: ANM_MissingGearPivot
+    6400012: CNT_SubGearPivot
+    6400014: HID_MissingGear
+    6400016: MissingGearPivotStand
+    6400018: PillarBody
+    6400020: PillarGear
+    6400022: Pivot1
+    6400024: Pivot2
+    6400026: polySurface80
+    6400028: polySurface81
+    6400030: polySurface82
+    6400032: polySurface83
+    6400034: SubGear
+    7400000: Idle
+    7400002: Shake
+    7400004: Move
+    7400006: DoorOpen
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConnectPart
+    second: {fileID: 2100000, guid: 61c467bfa7b1b0c44aa2607785144970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dynamic
+    second: {fileID: 2100000, guid: 31677e157c63af5438537e03ec0718f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 70605c4e3c82b664f94c72f52ca52730, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shake
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Move
+      takeName: Take 001
+      firstFrame: 16
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DoorOpen
+      takeName: Take 001
+      firstFrame: 81
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

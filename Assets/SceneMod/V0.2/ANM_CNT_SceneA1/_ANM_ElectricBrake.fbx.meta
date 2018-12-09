@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 33b650f816bf8d04c873903ef5a43db2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ANM_ElectricBrake
+    100004: ANM_ElectricBrakeLight
+    100006: ANM_ElectricBrakePanel
+    100008: CNT_PowerWire1
+    100010: CNT_PowerWire2
+    100012: ElectricBox
+    100014: ElectricBrakeBody
+    100016: Main
+    100018: WireToCenterPivot
+    100020: WireTube1
+    100022: WireTube2
+    100024: WireTube3
+    100026: WireTube4
+    100028: WireTube5
+    100030: WireTube6
+    100032: WireTube7
+    400000: //RootNode
+    400002: ANM_ElectricBrake
+    400004: ANM_ElectricBrakeLight
+    400006: ANM_ElectricBrakePanel
+    400008: CNT_PowerWire1
+    400010: CNT_PowerWire2
+    400012: ElectricBox
+    400014: ElectricBrakeBody
+    400016: Main
+    400018: WireToCenterPivot
+    400020: WireTube1
+    400022: WireTube2
+    400024: WireTube3
+    400026: WireTube4
+    400028: WireTube5
+    400030: WireTube6
+    400032: WireTube7
+    2100000: Dynamic
+    2100002: ConnectPart
+    2100004: lambert1
+    2300000: ANM_ElectricBrakeLight
+    2300002: ANM_ElectricBrakePanel
+    2300004: CNT_PowerWire1
+    2300006: CNT_PowerWire2
+    2300008: ElectricBox
+    2300010: ElectricBrakeBody
+    2300012: WireToCenterPivot
+    2300014: WireTube1
+    2300016: WireTube2
+    2300018: WireTube3
+    2300020: WireTube4
+    2300022: WireTube5
+    2300024: WireTube6
+    2300026: WireTube7
+    3300000: ANM_ElectricBrakeLight
+    3300002: ANM_ElectricBrakePanel
+    3300004: CNT_PowerWire1
+    3300006: CNT_PowerWire2
+    3300008: ElectricBox
+    3300010: ElectricBrakeBody
+    3300012: WireToCenterPivot
+    3300014: WireTube1
+    3300016: WireTube2
+    3300018: WireTube3
+    3300020: WireTube4
+    3300022: WireTube5
+    3300024: WireTube6
+    3300026: WireTube7
+    4300000: ANM_ElectricBrakeLight
+    4300002: ANM_ElectricBrakePanel
+    4300004: CNT_PowerWire2
+    4300006: CNT_PowerWire1
+    4300008: ElectricBrakeBody
+    4300010: WireTube1
+    4300012: WireTube2
+    4300014: WireTube6
+    4300016: WireTube5
+    4300018: WireTube4
+    4300020: WireTube3
+    4300022: WireTube7
+    4300024: ElectricBox
+    4300026: WireToCenterPivot
+    6400000: ANM_ElectricBrakeLight
+    6400002: ANM_ElectricBrakePanel
+    6400004: CNT_PowerWire1
+    6400006: CNT_PowerWire2
+    6400008: ElectricBox
+    6400010: ElectricBrakeBody
+    6400012: WireToCenterPivot
+    6400014: WireTube1
+    6400016: WireTube2
+    6400018: WireTube3
+    6400020: WireTube4
+    6400022: WireTube5
+    6400024: WireTube6
+    6400026: WireTube7
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConnectPart
+    second: {fileID: 2100000, guid: 61c467bfa7b1b0c44aa2607785144970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dynamic
+    second: {fileID: 2100000, guid: 31677e157c63af5438537e03ec0718f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: fb672113488a0df45b58fbe8bb8213ce, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

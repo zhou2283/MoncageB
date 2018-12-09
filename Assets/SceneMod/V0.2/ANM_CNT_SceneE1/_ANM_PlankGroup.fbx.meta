@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 37e5b3ebbee37c246bcde3047ed956be
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ANM_Box1
+    100004: ANM_Box2
+    100006: ANM_Box3
+    100008: ANM_Box4
+    100010: ANM_PickAxeGroup
+    100012: ANM_PlankGroup
+    100014: BoxPileGroup
+    100016: CNT_PlankInWell
+    100018: CNT_WireStand
+    100020: Main
+    100022: PickAxe
+    100024: PickAxeRope
+    400000: //RootNode
+    400002: ANM_Box1
+    400004: ANM_Box2
+    400006: ANM_Box3
+    400008: ANM_Box4
+    400010: ANM_PickAxeGroup
+    400012: ANM_PlankGroup
+    400014: BoxPileGroup
+    400016: CNT_PlankInWell
+    400018: CNT_WireStand
+    400020: Main
+    400022: PickAxe
+    400024: PickAxeRope
+    2100000: ConnectPart
+    2100002: Dynamic
+    2300000: ANM_Box1
+    2300002: ANM_Box2
+    2300004: ANM_Box3
+    2300006: ANM_Box4
+    2300008: CNT_PlankInWell
+    2300010: CNT_WireStand
+    2300012: PickAxe
+    2300014: PickAxeRope
+    3300000: ANM_Box1
+    3300002: ANM_Box2
+    3300004: ANM_Box3
+    3300006: ANM_Box4
+    3300008: CNT_PlankInWell
+    3300010: CNT_WireStand
+    3300012: PickAxe
+    3300014: PickAxeRope
+    4300000: CNT_PlankInWell
+    4300002: PickAxeRope
+    4300004: PickAxe
+    4300006: CNT_WireStand
+    4300008: ANM_Box1
+    4300010: ANM_Box2
+    4300012: ANM_Box3
+    4300014: ANM_Box4
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

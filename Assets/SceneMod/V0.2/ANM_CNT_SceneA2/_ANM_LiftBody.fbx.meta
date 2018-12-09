@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 85b56a05b5677e549b2483de3b964bb4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ANM_LiftBody
+    100004: ANM_LiftControlHandle
+    100006: LiftAroundMissile
+    100008: LiftControl
+    100010: LiftFence
+    100012: Main
+    100014: pCube786
+    100016: pCube787
+    100018: pCube788
+    100020: pCube789
+    100022: pCube790
+    100024: pCube791
+    100026: pCube792
+    100028: pCube793
+    100030: pCylinder220
+    100032: pCylinder221
+    100034: pCylinder222
+    100036: pCylinder223
+    100038: Stand1
+    100040: Stand2
+    400000: //RootNode
+    400002: ANM_LiftBody
+    400004: ANM_LiftControlHandle
+    400006: LiftAroundMissile
+    400008: LiftControl
+    400010: LiftFence
+    400012: Main
+    400014: pCube786
+    400016: pCube787
+    400018: pCube788
+    400020: pCube789
+    400022: pCube790
+    400024: pCube791
+    400026: pCube792
+    400028: pCube793
+    400030: pCylinder220
+    400032: pCylinder221
+    400034: pCylinder222
+    400036: pCylinder223
+    400038: Stand1
+    400040: Stand2
+    2100000: Dynamic
+    2300000: ANM_LiftControlHandle
+    2300002: LiftAroundMissile
+    2300004: pCube786
+    2300006: pCube787
+    2300008: pCube788
+    2300010: pCube789
+    2300012: pCube790
+    2300014: pCube791
+    2300016: pCube792
+    2300018: pCube793
+    2300020: pCylinder220
+    2300022: pCylinder221
+    2300024: pCylinder222
+    2300026: pCylinder223
+    2300028: Stand1
+    2300030: Stand2
+    3300000: ANM_LiftControlHandle
+    3300002: LiftAroundMissile
+    3300004: pCube786
+    3300006: pCube787
+    3300008: pCube788
+    3300010: pCube789
+    3300012: pCube790
+    3300014: pCube791
+    3300016: pCube792
+    3300018: pCube793
+    3300020: pCylinder220
+    3300022: pCylinder221
+    3300024: pCylinder222
+    3300026: pCylinder223
+    3300028: Stand1
+    3300030: Stand2
+    4300000: LiftAroundMissile
+    4300002: pCube793
+    4300004: pCube792
+    4300006: pCube791
+    4300008: pCube790
+    4300010: pCube789
+    4300012: pCube788
+    4300014: pCube787
+    4300016: pCylinder223
+    4300018: pCylinder222
+    4300020: pCylinder221
+    4300022: pCylinder220
+    4300024: pCube786
+    4300026: ANM_LiftControlHandle
+    4300028: Stand2
+    4300030: Stand1
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

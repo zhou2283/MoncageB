@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 15cf5d64ff3c01446aeae0de37628e05
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ANM_LifterGearGroup
+    100004: ANM_WellCover
+    100006: ANM_WellLifter
+    100008: ANM_WellLiftFrontRope
+    100010: CNT_WellLifterPivot
+    100012: Main
+    100014: MSK_InWell
+    100016: Shell1
+    100018: Shell2
+    100020: Shell3
+    100022: ShellMain
+    100024: WellLid
+    100026: WellLifter
+    100028: WellLiftStand1
+    100030: WellLiftStand2
+    100032: WellNob
+    100034: WellWall
+    400000: //RootNode
+    400002: ANM_LifterGearGroup
+    400004: ANM_WellCover
+    400006: ANM_WellLifter
+    400008: ANM_WellLiftFrontRope
+    400010: CNT_WellLifterPivot
+    400012: Main
+    400014: MSK_InWell
+    400016: Shell1
+    400018: Shell2
+    400020: Shell3
+    400022: ShellMain
+    400024: WellLid
+    400026: WellLifter
+    400028: WellLiftStand1
+    400030: WellLiftStand2
+    400032: WellNob
+    400034: WellWall
+    2100000: Dynamic
+    2100002: lambert1
+    2100004: ConnectPart
+    2100006: WhiteMask
+    2300000: ANM_WellLiftFrontRope
+    2300002: CNT_WellLifterPivot
+    2300004: MSK_InWell
+    2300006: Shell1
+    2300008: Shell2
+    2300010: Shell3
+    2300012: ShellMain
+    2300014: WellLid
+    2300016: WellLiftStand1
+    2300018: WellLiftStand2
+    2300020: WellNob
+    2300022: WellWall
+    3300000: ANM_WellLiftFrontRope
+    3300002: CNT_WellLifterPivot
+    3300004: MSK_InWell
+    3300006: Shell1
+    3300008: Shell2
+    3300010: Shell3
+    3300012: ShellMain
+    3300014: WellLid
+    3300016: WellLiftStand1
+    3300018: WellLiftStand2
+    3300020: WellNob
+    3300022: WellWall
+    4300000: ANM_WellLiftFrontRope
+    4300002: Shell1
+    4300004: ShellMain
+    4300006: CNT_WellLifterPivot
+    4300008: WellWall
+    4300010: WellLiftStand1
+    4300012: WellLiftStand2
+    4300014: Shell3
+    4300016: Shell2
+    4300018: MSK_InWell
+    4300020: WellLid
+    4300022: WellNob
+    6400000: ANM_WellLiftFrontRope
+    6400002: CNT_WellLifterPivot
+    6400004: MSK_InWell
+    6400006: Shell1
+    6400008: Shell2
+    6400010: Shell3
+    6400012: ShellMain
+    6400014: WellLid
+    6400016: WellLiftStand1
+    6400018: WellLiftStand2
+    6400020: WellNob
+    6400022: WellWall
+    7400000: Idle
+    7400002: Move
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConnectPart
+    second: {fileID: 2100000, guid: 61c467bfa7b1b0c44aa2607785144970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dynamic
+    second: {fileID: 2100000, guid: 31677e157c63af5438537e03ec0718f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteMask
+    second: {fileID: 2100000, guid: ae56f0b1120ebe244882984d1e1c7241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: fb672113488a0df45b58fbe8bb8213ce, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Move
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 63
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
