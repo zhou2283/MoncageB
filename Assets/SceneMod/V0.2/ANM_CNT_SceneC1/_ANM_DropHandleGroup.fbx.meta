@@ -60,6 +60,15 @@ ModelImporter:
     4300012: DropPanelScreen
     4300014: ANM_DropHandle
     4300016: DropHandleStand
+    6400000: ANM_DropHandle
+    6400002: DropHandleStand
+    6400004: DropPanelFrrame
+    6400006: DropPanelScreen
+    6400008: pCylinder113
+    6400010: pCylinder114
+    6400012: pCylinder140
+    6400014: pTorus5
+    6400016: pTorus6
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
@@ -95,7 +104,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -112,7 +121,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
     previousCalculatedGlobalScale: 0.01
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:

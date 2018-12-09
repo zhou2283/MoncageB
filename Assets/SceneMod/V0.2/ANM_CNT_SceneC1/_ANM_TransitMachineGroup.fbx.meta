@@ -140,6 +140,29 @@ ModelImporter:
     4300040: ANM_TransitMachineDoor2
     4300042: TrashDoorFrame
     4300044: CNT_SliderBody
+    6400000: ANM_DropBox
+    6400002: ANM_MovePanelScreen
+    6400004: ANM_TransitMachineDoor1
+    6400006: ANM_TransitMachineDoor2
+    6400008: ANM_TrashDoor1
+    6400010: ANM_TrashDoor2
+    6400012: CNT_MoveButtonWireTop
+    6400014: CNT_SliderBody
+    6400016: MoveButtonStand
+    6400018: MovePanelFrrame
+    6400020: pCube297
+    6400022: pCube335
+    6400024: pCylinder110
+    6400026: pCylinder141
+    6400028: pCylinder258
+    6400030: pCylinder75
+    6400032: pCylinder94
+    6400034: pCylinder95
+    6400036: PL_WeaponPart
+    6400038: pTorus3
+    6400040: pTorus4
+    6400042: TransitMachine
+    6400044: TrashDoorFrame
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
@@ -175,7 +198,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -192,7 +215,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
     previousCalculatedGlobalScale: 0.01
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:

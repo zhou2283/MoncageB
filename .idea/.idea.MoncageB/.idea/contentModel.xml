@@ -708,6 +708,8 @@
             <e p="MarkPosition01.cs" t="Include" />
             <e p="MarkPosition02.cs" t="Include" />
             <e p="MarkPosition03.cs" t="Include" />
+            <e p="MP1_WireAndWire_3_4.cs" t="Include" />
+            <e p="MP2_TrapDoorAndBride_3_4.cs" t="Include" />
           </e>
           <e p="SaveManager.cs" t="Include" />
           <e p="SceneBase.cs" t="Include" />

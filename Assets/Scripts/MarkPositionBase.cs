@@ -33,7 +33,7 @@ public class MarkPositionBase : MonoBehaviour
     protected Transform maskB;
     protected Transform maskC;
 
-    private void Start()
+    private void Awake()
     {
         zoneGroupManager = GameObject.Find("ZoneGroup").GetComponent<ZoneGroupManager>();
         if (SortIndex())

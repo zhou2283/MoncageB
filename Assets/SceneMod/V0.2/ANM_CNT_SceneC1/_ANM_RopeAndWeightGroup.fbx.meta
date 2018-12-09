@@ -80,6 +80,16 @@ ModelImporter:
     4300014: Ring1
     4300016: pTorus19
     4300018: pCube887
+    6400000: ANM_RopeDown
+    6400002: CNT_RopeTop
+    6400004: HookRopeShell
+    6400006: HookRopeStand1
+    6400008: HookRopeStand2
+    6400010: pCube887
+    6400012: pTorus19
+    6400014: Ring1
+    6400016: Ring2
+    6400018: TopLock
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
@@ -115,7 +125,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -132,7 +142,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
     previousCalculatedGlobalScale: 0.01
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:

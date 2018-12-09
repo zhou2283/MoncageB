@@ -754,10 +754,167 @@ ModelImporter:
     4300258: Ring1
     4300260: pTorus19
     4300262: pCube887
+    6400000: ANM_DropBox
+    6400002: ANM_DropHandle
+    6400004: ANM_MoveButton
+    6400006: ANM_MovePanelScreen
+    6400008: ANM_RopeDown
+    6400010: ANM_TransitMachineDoor1
+    6400012: ANM_TransitMachineDoor2
+    6400014: ANM_TrashDoor1
+    6400016: ANM_TrashDoor2
+    6400018: BlackBoardFrame
+    6400020: BlackBoardSlider
+    6400022: BucketBody
+    6400024: BucketBody1
+    6400026: BucketCover
+    6400028: BucketCover1
+    6400030: CabinetDoorLeft
+    6400032: CabinetDoorRight
+    6400034: Chair1
+    6400036: Chair2
+    6400038: Chair3
+    6400040: CNT_MoveButtonWireTop
+    6400042: CNT_RopeTop
+    6400044: CNT_SliderBody
+    6400046: DropHandleStand
+    6400048: DropPanelFrrame
+    6400050: DropPanelScreen
+    6400052: HookRopeShell
+    6400054: HookRopeStand1
+    6400056: HookRopeStand2
+    6400058: MoveButtonStand
+    6400060: MovePanelFrrame
+    6400062: MUL_CableRoll
+    6400064: pCube288
+    6400066: pCube289
+    6400068: pCube290
+    6400070: pCube292
+    6400072: pCube292 1
+    6400074: pCube293
+    6400076: pCube294
+    6400078: pCube295
+    6400080: pCube297
+    6400082: pCube299
+    6400084: pCube300
+    6400086: pCube316
+    6400088: pCube317
+    6400090: pCube319
+    6400092: pCube320
+    6400094: pCube321
+    6400096: pCube325
+    6400098: pCube326
+    6400100: pCube335
+    6400102: pCube887
+    6400104: pCylinder100
+    6400106: pCylinder100 1
+    6400108: pCylinder101
+    6400110: pCylinder101 1
+    6400112: pCylinder102
+    6400114: pCylinder102 1
+    6400116: pCylinder103
+    6400118: pCylinder104
+    6400120: pCylinder110
+    6400122: pCylinder113
+    6400124: pCylinder114
+    6400126: pCylinder140
+    6400128: pCylinder141
+    6400130: pCylinder258
+    6400132: pCylinder75
+    6400134: pCylinder94
+    6400136: pCylinder95
+    6400138: pCylinder96
+    6400140: pCylinder97
+    6400142: pCylinder99
+    6400144: pCylinder99 1
+    6400146: PL_WeaponPart
+    6400148: pTorus19
+    6400150: pTorus3
+    6400152: pTorus4
+    6400154: pTorus5
+    6400156: pTorus6
+    6400158: Ring1
+    6400160: Ring2
+    6400162: RollerSide1
+    6400164: RollerSide1 1
+    6400166: RollerSide2
+    6400168: RollerSide2 1
+    6400170: RollerStand1
+    6400172: RollerStand2
+    6400174: RollerStand3
+    6400176: RollerWheel1
+    6400178: RollerWheel1 1
+    6400180: RollerWheel10
+    6400182: RollerWheel10 1
+    6400184: RollerWheel11
+    6400186: RollerWheel11 1
+    6400188: RollerWheel12
+    6400190: RollerWheel13
+    6400192: RollerWheel14
+    6400194: RollerWheel15
+    6400196: RollerWheel16
+    6400198: RollerWheel17
+    6400200: RollerWheel18
+    6400202: RollerWheel19
+    6400204: RollerWheel2
+    6400206: RollerWheel2 1
+    6400208: RollerWheel20
+    6400210: RollerWheel21
+    6400212: RollerWheel22
+    6400214: RollerWheel23
+    6400216: RollerWheel3
+    6400218: RollerWheel3 1
+    6400220: RollerWheel4
+    6400222: RollerWheel4 1
+    6400224: RollerWheel5
+    6400226: RollerWheel5 1
+    6400228: RollerWheel6
+    6400230: RollerWheel6 1
+    6400232: RollerWheel7
+    6400234: RollerWheel7 1
+    6400236: RollerWheel8
+    6400238: RollerWheel8 1
+    6400240: RollerWheel9
+    6400242: RollerWheel9 1
+    6400244: RoomBody
+    6400246: TopLock
+    6400248: TopPipe
+    6400250: TransitMachine
+    6400252: TrashDoorFrame
+    6400254: TrunkBody
+    6400256: Wheel1
+    6400258: Wheel2
+    6400260: Wheel3
+    6400262: Wheel4
     7400000: Take 001
     9500000: //RootNode
     2186277476908879412: ImportLogs
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConnectPart
+    second: {fileID: 2100000, guid: 61c467bfa7b1b0c44aa2607785144970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dynamic
+    second: {fileID: 2100000, guid: 31677e157c63af5438537e03ec0718f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MultiDimension
+    second: {fileID: 2100000, guid: 61c467bfa7b1b0c44aa2607785144970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlaceHolder
+    second: {fileID: 2100000, guid: 31677e157c63af5438537e03ec0718f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: fb672113488a0df45b58fbe8bb8213ce, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -790,7 +947,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -807,7 +964,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
     previousCalculatedGlobalScale: 0.01
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:

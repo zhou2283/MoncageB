@@ -66,7 +66,19 @@ public class SceneBase : MonoBehaviour
 	{
 		GameControlGlobal.Instance.INTERACTION_IS_ACTIVE = true;
 	}
-	
+
+
+	public void MoveToState(int moveState, float duration, float delay)
+	{
+		if (moveMarkArray.Length == 0 || moveMarkArray.Length == 1)
+		{
+			return;
+		}
+		
+		sceneBody.DOLocalMove(moveMarkArray[moveState].localPosition, duration).SetEase(Ease.InOutCubic).SetDelay(delay);
+		sceneBody.DOLocalRotate(moveMarkArray[moveState].localRotation.eulerAngles, duration).SetEase(Ease.InOutCubic).SetDelay(delay);
+		sceneBody.DOScale(moveMarkArray[moveState].localScale, duration).SetEase(Ease.InOutCubic).SetDelay(delay);
+	}
 	
 	//////////test function//////////////
 	public void MoveToNextState()

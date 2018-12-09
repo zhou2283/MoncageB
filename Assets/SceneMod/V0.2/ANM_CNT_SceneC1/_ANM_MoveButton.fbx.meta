@@ -13,6 +13,7 @@ ModelImporter:
     2300000: ANM_MoveButton
     3300000: ANM_MoveButton
     4300000: ANM_MoveButton
+    6400000: ANM_MoveButton
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
@@ -48,7 +49,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -65,7 +66,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
     previousCalculatedGlobalScale: 0.01
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
