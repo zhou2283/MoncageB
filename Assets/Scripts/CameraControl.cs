@@ -62,6 +62,16 @@ public class CameraControl : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         //move part
+	    if (Input.GetKey(KeyCode.Space))
+	    {
+	        speedV = 0.5f;
+	        speedH = 0.5f;
+	    }
+	    else
+	    {
+	        speedV = 4f;
+	        speedH = 4f;
+	    }
         if (Input.GetMouseButton(1) && GameControlGlobal.Instance.INTERACTION_IS_ACTIVE)
         {
             fMouseX = Input.GetAxis("Mouse X");

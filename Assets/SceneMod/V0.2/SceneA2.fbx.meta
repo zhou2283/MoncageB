@@ -1,0 +1,1814 @@
+fileFormatVersion: 2
+guid: bfa0b9f330980bd498a32f2f4b6a2a76
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ANM_DecoFanBody
+    100002: ANM_DecoFanBody 1
+    100004: ANM_DecoFanBody 2
+    100006: ANM_FanSwitch
+    100008: ANM_GlassDoor
+    100010: ANM_LaunchGate
+    100012: ANM_LftBody
+    100014: BombDecor
+    100016: CNT_CeilDoor2
+    100018: CNT_FanBody
+    100020: CNT_pressureTube
+    100022: CNT_WarningSignRod
+    100024: DecoFan1
+    100026: DecoFan2
+    100028: DecoFan3
+    100030: ElevatorButton
+    100032: group42
+    100034: group42 1
+    100036: group42 2
+    100038: group42 3
+    100040: group43
+    100042: group43 1
+    100044: group43 2
+    100046: group43 3
+    100048: group44
+    100050: group44 1
+    100052: group44 2
+    100054: group44 3
+    100056: group49
+    100058: group49 1
+    100060: group49 2
+    100062: group49 3
+    100064: group49 4
+    100066: group49 5
+    100068: group50
+    100070: group50 1
+    100072: group50 2
+    100074: group50 3
+    100076: group50 4
+    100078: group50 5
+    100080: group51
+    100082: group51 1
+    100084: group51 2
+    100086: group51 3
+    100088: group51 4
+    100090: group51 5
+    100092: group52
+    100094: group52 1
+    100096: group52 2
+    100098: group52 3
+    100100: group52 4
+    100102: group52 5
+    100104: group53
+    100106: group53 1
+    100108: group53 2
+    100110: group53 3
+    100112: group53 4
+    100114: group53 5
+    100116: group57
+    100118: group57 1
+    100120: group57 2
+    100122: group58
+    100124: group58 1
+    100126: group58 2
+    100128: group62
+    100130: group62 1
+    100132: group62 2
+    100134: LabBooks
+    100136: LabCabin
+    100138: LabClock
+    100140: LabClock1
+    100142: LabComputer
+    100144: LabComputer1
+    100146: LabComputer2
+    100148: LabDesk
+    100150: LabDesk1
+    100152: LabDoor
+    100154: LabFence
+    100156: LabFence1
+    100158: LabFenceIn
+    100160: labLights
+    100162: LabMicrowave
+    100164: LabShell
+    100166: LabStool
+    100168: LabTable
+    100170: LaunchGateTop
+    100172: LiftAroundMissile
+    100174: LiftControl
+    100176: LiftControlHandle
+    100178: LiftFence
+    100180: LiftTrack
+    100182: LiftTrack 1
+    100184: LiftTrack1
+    100186: LiftTrack2
+    100188: LiftTrack3
+    100190: lockerDoor
+    100192: lockerDoor1
+    100194: lockerDoor2
+    100196: Lockers
+    100198: lockers1
+    100200: Main
+    100202: Missile
+    100204: Move0
+    100206: Move1
+    100208: Move2
+    100210: Move3
+    100212: NoticeBoard
+    100214: NoticeBoardFront
+    100216: OUT_toDessert
+    100218: pCube478
+    100220: pCube478 1
+    100222: pCube490
+    100224: pCube491
+    100226: pCube492
+    100228: pCube493
+    100230: pCube494
+    100232: pCube495
+    100234: pCube496
+    100236: pCube497
+    100238: pCube497 1
+    100240: pCube498
+    100242: pCube498 1
+    100244: pCube499
+    100246: pCube499 1
+    100248: pCube500
+    100250: pCube500 1
+    100252: pCube501
+    100254: pCube501 1
+    100256: pCube502
+    100258: pCube502 1
+    100260: pCube504
+    100262: pCube504 1
+    100264: pCube504 2
+    100266: pCube504 3
+    100268: pCube504 4
+    100270: pCube504 5
+    100272: pCube507
+    100274: pCube512
+    100276: pCube513
+    100278: pCube514
+    100280: pCube517
+    100282: pCube518
+    100284: pCube518 1
+    100286: pCube519
+    100288: pCube519 1
+    100290: pCube597
+    100292: pCube597 1
+    100294: pCube597 10
+    100296: pCube597 2
+    100298: pCube597 3
+    100300: pCube597 4
+    100302: pCube597 5
+    100304: pCube597 6
+    100306: pCube597 7
+    100308: pCube597 8
+    100310: pCube597 9
+    100312: pCube598
+    100314: pCube598 1
+    100316: pCube598 10
+    100318: pCube598 11
+    100320: pCube598 2
+    100322: pCube598 3
+    100324: pCube598 4
+    100326: pCube598 5
+    100328: pCube598 6
+    100330: pCube598 7
+    100332: pCube598 8
+    100334: pCube598 9
+    100336: pCube685
+    100338: pCube685 1
+    100340: pCube685 2
+    100342: pCube685 3
+    100344: pCube685 4
+    100346: pCube685 5
+    100348: pCube686
+    100350: pCube686 1
+    100352: pCube686 2
+    100354: pCube686 3
+    100356: pCube686 4
+    100358: pCube686 5
+    100360: pCube687
+    100362: pCube687 1
+    100364: pCube687 2
+    100366: pCube687 3
+    100368: pCube687 4
+    100370: pCube687 5
+    100372: pCube688
+    100374: pCube688 1
+    100376: pCube688 2
+    100378: pCube688 3
+    100380: pCube688 4
+    100382: pCube688 5
+    100384: pCube689
+    100386: pCube689 1
+    100388: pCube689 2
+    100390: pCube689 3
+    100392: pCube689 4
+    100394: pCube689 5
+    100396: pCube690
+    100398: pCube690 1
+    100400: pCube690 2
+    100402: pCube690 3
+    100404: pCube690 4
+    100406: pCube690 5
+    100408: pCube691
+    100410: pCube691 1
+    100412: pCube691 2
+    100414: pCube691 3
+    100416: pCube691 4
+    100418: pCube691 5
+    100420: pCube692
+    100422: pCube692 1
+    100424: pCube692 2
+    100426: pCube692 3
+    100428: pCube692 4
+    100430: pCube692 5
+    100432: pCube693
+    100434: pCube693 1
+    100436: pCube693 2
+    100438: pCube693 3
+    100440: pCube693 4
+    100442: pCube693 5
+    100444: pCube694
+    100446: pCube694 1
+    100448: pCube694 2
+    100450: pCube694 3
+    100452: pCube694 4
+    100454: pCube694 5
+    100456: pCube695
+    100458: pCube695 1
+    100460: pCube695 2
+    100462: pCube695 3
+    100464: pCube695 4
+    100466: pCube695 5
+    100468: pCube696
+    100470: pCube696 1
+    100472: pCube696 2
+    100474: pCube696 3
+    100476: pCube696 4
+    100478: pCube696 5
+    100480: pCube697
+    100482: pCube697 1
+    100484: pCube697 2
+    100486: pCube697 3
+    100488: pCube697 4
+    100490: pCube697 5
+    100492: pCube700
+    100494: pCube705
+    100496: pCube706
+    100498: pCube707
+    100500: pCube720
+    100502: pCube726
+    100504: pCube726 1
+    100506: pCube727
+    100508: pCube727 1
+    100510: pCube728
+    100512: pCube728 1
+    100514: pCube729
+    100516: pCube731
+    100518: pCube732
+    100520: pCube734
+    100522: pCube735
+    100524: pCube737
+    100526: pCube738
+    100528: pCube739
+    100530: pCube740
+    100532: pCube751
+    100534: pCube786
+    100536: pCube787
+    100538: pCube788
+    100540: pCube789
+    100542: pCube790
+    100544: pCube791
+    100546: pCube792
+    100548: pCube793
+    100550: pCube794
+    100552: pCube795
+    100554: pCube796
+    100556: pCube797
+    100558: pCube798
+    100560: pCube799
+    100562: pCube800
+    100564: pCube801
+    100566: pCube802
+    100568: pCube808
+    100570: pCube810
+    100572: pCube813
+    100574: pCube813 1
+    100576: pCube813 2
+    100578: pCube815
+    100580: pCube815 1
+    100582: pCube815 2
+    100584: pCube816
+    100586: pCube816 1
+    100588: pCube816 2
+    100590: pCube816 3
+    100592: pCube816 4
+    100594: pCube816 5
+    100596: pCube817
+    100598: pCube817 1
+    100600: pCube817 2
+    100602: pCube818
+    100604: pCube818 1
+    100606: pCube818 2
+    100608: pCube818 3
+    100610: pCube818 4
+    100612: pCube818 5
+    100614: pCube819
+    100616: pCube819 1
+    100618: pCube819 2
+    100620: pCube820
+    100622: pCube820 1
+    100624: pCube820 2
+    100626: pCube820 3
+    100628: pCube820 4
+    100630: pCube820 5
+    100632: pCube822
+    100634: pCube823
+    100636: pCube826
+    100638: pCube827
+    100640: pCube828
+    100642: pCube829
+    100644: pCube830
+    100646: pCube831
+    100648: pCube833
+    100650: pCube834
+    100652: pCube835
+    100654: pCube836
+    100656: pCube841
+    100658: pCube842
+    100660: pCube843
+    100662: pCube844
+    100664: pCube845
+    100666: pCylinder149
+    100668: pCylinder152
+    100670: pCylinder153
+    100672: pCylinder154
+    100674: pCylinder173
+    100676: pCylinder173 1
+    100678: pCylinder173 2
+    100680: pCylinder173 3
+    100682: pCylinder174
+    100684: pCylinder174 1
+    100686: pCylinder174 2
+    100688: pCylinder174 3
+    100690: pCylinder207
+    100692: pCylinder208
+    100694: pCylinder215
+    100696: pCylinder220
+    100698: pCylinder221
+    100700: pCylinder222
+    100702: pCylinder223
+    100704: pCylinder228
+    100706: pCylinder229
+    100708: pCylinder229 1
+    100710: pCylinder229 2
+    100712: pCylinder231
+    100714: pCylinder232
+    100716: pCylinder235
+    100718: pCylinder236
+    100720: pCylinder237
+    100722: pCylinder238
+    100724: polySurface120
+    100726: polySurface121
+    100728: polySurface122
+    100730: pPipe19
+    100732: pPipe19 1
+    100734: pPipe19 2
+    100736: pPipe19 3
+    100738: PressureMeter
+    100740: PressureMeter2
+    100742: PressureMeter2 1
+    100744: PressureMeter3
+    100746: pressureMeter8
+    100748: pSphere1
+    100750: pSphere1 1
+    100752: pSphere1 2
+    100754: pSphere1 3
+    100756: pTorus14
+    100758: pTorus16
+    100760: pTorus17
+    100762: //RootNode
+    100764: server
+    100766: server 1
+    100768: Server0
+    100770: Server1
+    100772: server1
+    100774: server1 1
+    100776: Server2
+    100778: Server3
+    100780: Shell
+    100782: Shell 1
+    100784: Shell 2
+    100786: Shell 3
+    100788: Stairs
+    100790: Stairs1
+    100792: Stand1
+    100794: Stand2
+    100796: stool1
+    100798: stool2
+    100800: stool3
+    100802: TopPipe1
+    100804: TopPipe2
+    100806: TrashCan
+    100808: TubeOut
+    100810: Walkbridge
+    100812: WarningSign
+    100814: WashBasin
+    100816: WiresOnBomb
+    400000: ANM_DecoFanBody
+    400002: ANM_DecoFanBody 1
+    400004: ANM_DecoFanBody 2
+    400006: ANM_FanSwitch
+    400008: ANM_GlassDoor
+    400010: ANM_LaunchGate
+    400012: ANM_LftBody
+    400014: BombDecor
+    400016: CNT_CeilDoor2
+    400018: CNT_FanBody
+    400020: CNT_pressureTube
+    400022: CNT_WarningSignRod
+    400024: DecoFan1
+    400026: DecoFan2
+    400028: DecoFan3
+    400030: ElevatorButton
+    400032: group42
+    400034: group42 1
+    400036: group42 2
+    400038: group42 3
+    400040: group43
+    400042: group43 1
+    400044: group43 2
+    400046: group43 3
+    400048: group44
+    400050: group44 1
+    400052: group44 2
+    400054: group44 3
+    400056: group49
+    400058: group49 1
+    400060: group49 2
+    400062: group49 3
+    400064: group49 4
+    400066: group49 5
+    400068: group50
+    400070: group50 1
+    400072: group50 2
+    400074: group50 3
+    400076: group50 4
+    400078: group50 5
+    400080: group51
+    400082: group51 1
+    400084: group51 2
+    400086: group51 3
+    400088: group51 4
+    400090: group51 5
+    400092: group52
+    400094: group52 1
+    400096: group52 2
+    400098: group52 3
+    400100: group52 4
+    400102: group52 5
+    400104: group53
+    400106: group53 1
+    400108: group53 2
+    400110: group53 3
+    400112: group53 4
+    400114: group53 5
+    400116: group57
+    400118: group57 1
+    400120: group57 2
+    400122: group58
+    400124: group58 1
+    400126: group58 2
+    400128: group62
+    400130: group62 1
+    400132: group62 2
+    400134: LabBooks
+    400136: LabCabin
+    400138: LabClock
+    400140: LabClock1
+    400142: LabComputer
+    400144: LabComputer1
+    400146: LabComputer2
+    400148: LabDesk
+    400150: LabDesk1
+    400152: LabDoor
+    400154: LabFence
+    400156: LabFence1
+    400158: LabFenceIn
+    400160: labLights
+    400162: LabMicrowave
+    400164: LabShell
+    400166: LabStool
+    400168: LabTable
+    400170: LaunchGateTop
+    400172: LiftAroundMissile
+    400174: LiftControl
+    400176: LiftControlHandle
+    400178: LiftFence
+    400180: LiftTrack
+    400182: LiftTrack 1
+    400184: LiftTrack1
+    400186: LiftTrack2
+    400188: LiftTrack3
+    400190: lockerDoor
+    400192: lockerDoor1
+    400194: lockerDoor2
+    400196: Lockers
+    400198: lockers1
+    400200: Main
+    400202: Missile
+    400204: Move0
+    400206: Move1
+    400208: Move2
+    400210: Move3
+    400212: NoticeBoard
+    400214: NoticeBoardFront
+    400216: OUT_toDessert
+    400218: pCube478
+    400220: pCube478 1
+    400222: pCube490
+    400224: pCube491
+    400226: pCube492
+    400228: pCube493
+    400230: pCube494
+    400232: pCube495
+    400234: pCube496
+    400236: pCube497
+    400238: pCube497 1
+    400240: pCube498
+    400242: pCube498 1
+    400244: pCube499
+    400246: pCube499 1
+    400248: pCube500
+    400250: pCube500 1
+    400252: pCube501
+    400254: pCube501 1
+    400256: pCube502
+    400258: pCube502 1
+    400260: pCube504
+    400262: pCube504 1
+    400264: pCube504 2
+    400266: pCube504 3
+    400268: pCube504 4
+    400270: pCube504 5
+    400272: pCube507
+    400274: pCube512
+    400276: pCube513
+    400278: pCube514
+    400280: pCube517
+    400282: pCube518
+    400284: pCube518 1
+    400286: pCube519
+    400288: pCube519 1
+    400290: pCube597
+    400292: pCube597 1
+    400294: pCube597 10
+    400296: pCube597 2
+    400298: pCube597 3
+    400300: pCube597 4
+    400302: pCube597 5
+    400304: pCube597 6
+    400306: pCube597 7
+    400308: pCube597 8
+    400310: pCube597 9
+    400312: pCube598
+    400314: pCube598 1
+    400316: pCube598 10
+    400318: pCube598 11
+    400320: pCube598 2
+    400322: pCube598 3
+    400324: pCube598 4
+    400326: pCube598 5
+    400328: pCube598 6
+    400330: pCube598 7
+    400332: pCube598 8
+    400334: pCube598 9
+    400336: pCube685
+    400338: pCube685 1
+    400340: pCube685 2
+    400342: pCube685 3
+    400344: pCube685 4
+    400346: pCube685 5
+    400348: pCube686
+    400350: pCube686 1
+    400352: pCube686 2
+    400354: pCube686 3
+    400356: pCube686 4
+    400358: pCube686 5
+    400360: pCube687
+    400362: pCube687 1
+    400364: pCube687 2
+    400366: pCube687 3
+    400368: pCube687 4
+    400370: pCube687 5
+    400372: pCube688
+    400374: pCube688 1
+    400376: pCube688 2
+    400378: pCube688 3
+    400380: pCube688 4
+    400382: pCube688 5
+    400384: pCube689
+    400386: pCube689 1
+    400388: pCube689 2
+    400390: pCube689 3
+    400392: pCube689 4
+    400394: pCube689 5
+    400396: pCube690
+    400398: pCube690 1
+    400400: pCube690 2
+    400402: pCube690 3
+    400404: pCube690 4
+    400406: pCube690 5
+    400408: pCube691
+    400410: pCube691 1
+    400412: pCube691 2
+    400414: pCube691 3
+    400416: pCube691 4
+    400418: pCube691 5
+    400420: pCube692
+    400422: pCube692 1
+    400424: pCube692 2
+    400426: pCube692 3
+    400428: pCube692 4
+    400430: pCube692 5
+    400432: pCube693
+    400434: pCube693 1
+    400436: pCube693 2
+    400438: pCube693 3
+    400440: pCube693 4
+    400442: pCube693 5
+    400444: pCube694
+    400446: pCube694 1
+    400448: pCube694 2
+    400450: pCube694 3
+    400452: pCube694 4
+    400454: pCube694 5
+    400456: pCube695
+    400458: pCube695 1
+    400460: pCube695 2
+    400462: pCube695 3
+    400464: pCube695 4
+    400466: pCube695 5
+    400468: pCube696
+    400470: pCube696 1
+    400472: pCube696 2
+    400474: pCube696 3
+    400476: pCube696 4
+    400478: pCube696 5
+    400480: pCube697
+    400482: pCube697 1
+    400484: pCube697 2
+    400486: pCube697 3
+    400488: pCube697 4
+    400490: pCube697 5
+    400492: pCube700
+    400494: pCube705
+    400496: pCube706
+    400498: pCube707
+    400500: pCube720
+    400502: pCube726
+    400504: pCube726 1
+    400506: pCube727
+    400508: pCube727 1
+    400510: pCube728
+    400512: pCube728 1
+    400514: pCube729
+    400516: pCube731
+    400518: pCube732
+    400520: pCube734
+    400522: pCube735
+    400524: pCube737
+    400526: pCube738
+    400528: pCube739
+    400530: pCube740
+    400532: pCube751
+    400534: pCube786
+    400536: pCube787
+    400538: pCube788
+    400540: pCube789
+    400542: pCube790
+    400544: pCube791
+    400546: pCube792
+    400548: pCube793
+    400550: pCube794
+    400552: pCube795
+    400554: pCube796
+    400556: pCube797
+    400558: pCube798
+    400560: pCube799
+    400562: pCube800
+    400564: pCube801
+    400566: pCube802
+    400568: pCube808
+    400570: pCube810
+    400572: pCube813
+    400574: pCube813 1
+    400576: pCube813 2
+    400578: pCube815
+    400580: pCube815 1
+    400582: pCube815 2
+    400584: pCube816
+    400586: pCube816 1
+    400588: pCube816 2
+    400590: pCube816 3
+    400592: pCube816 4
+    400594: pCube816 5
+    400596: pCube817
+    400598: pCube817 1
+    400600: pCube817 2
+    400602: pCube818
+    400604: pCube818 1
+    400606: pCube818 2
+    400608: pCube818 3
+    400610: pCube818 4
+    400612: pCube818 5
+    400614: pCube819
+    400616: pCube819 1
+    400618: pCube819 2
+    400620: pCube820
+    400622: pCube820 1
+    400624: pCube820 2
+    400626: pCube820 3
+    400628: pCube820 4
+    400630: pCube820 5
+    400632: pCube822
+    400634: pCube823
+    400636: pCube826
+    400638: pCube827
+    400640: pCube828
+    400642: pCube829
+    400644: pCube830
+    400646: pCube831
+    400648: pCube833
+    400650: pCube834
+    400652: pCube835
+    400654: pCube836
+    400656: pCube841
+    400658: pCube842
+    400660: pCube843
+    400662: pCube844
+    400664: pCube845
+    400666: pCylinder149
+    400668: pCylinder152
+    400670: pCylinder153
+    400672: pCylinder154
+    400674: pCylinder173
+    400676: pCylinder173 1
+    400678: pCylinder173 2
+    400680: pCylinder173 3
+    400682: pCylinder174
+    400684: pCylinder174 1
+    400686: pCylinder174 2
+    400688: pCylinder174 3
+    400690: pCylinder207
+    400692: pCylinder208
+    400694: pCylinder215
+    400696: pCylinder220
+    400698: pCylinder221
+    400700: pCylinder222
+    400702: pCylinder223
+    400704: pCylinder228
+    400706: pCylinder229
+    400708: pCylinder229 1
+    400710: pCylinder229 2
+    400712: pCylinder231
+    400714: pCylinder232
+    400716: pCylinder235
+    400718: pCylinder236
+    400720: pCylinder237
+    400722: pCylinder238
+    400724: polySurface120
+    400726: polySurface121
+    400728: polySurface122
+    400730: pPipe19
+    400732: pPipe19 1
+    400734: pPipe19 2
+    400736: pPipe19 3
+    400738: PressureMeter
+    400740: PressureMeter2
+    400742: PressureMeter2 1
+    400744: PressureMeter3
+    400746: pressureMeter8
+    400748: pSphere1
+    400750: pSphere1 1
+    400752: pSphere1 2
+    400754: pSphere1 3
+    400756: pTorus14
+    400758: pTorus16
+    400760: pTorus17
+    400762: //RootNode
+    400764: server
+    400766: server 1
+    400768: Server0
+    400770: Server1
+    400772: server1
+    400774: server1 1
+    400776: Server2
+    400778: Server3
+    400780: Shell
+    400782: Shell 1
+    400784: Shell 2
+    400786: Shell 3
+    400788: Stairs
+    400790: Stairs1
+    400792: Stand1
+    400794: Stand2
+    400796: stool1
+    400798: stool2
+    400800: stool3
+    400802: TopPipe1
+    400804: TopPipe2
+    400806: TrashCan
+    400808: TubeOut
+    400810: Walkbridge
+    400812: WarningSign
+    400814: WashBasin
+    400816: WiresOnBomb
+    2100000: Dynamic
+    2100002: ConnectPart
+    2100004: lambert1
+    2100006: Glass
+    2100008: WhiteMask
+    2100010: white
+    2300000: ANM_FanSwitch
+    2300002: ANM_LaunchGate
+    2300004: CNT_pressureTube
+    2300006: CNT_WarningSignRod
+    2300008: LabClock
+    2300010: LabClock1
+    2300012: LabDesk
+    2300014: LabTable
+    2300016: LaunchGateTop
+    2300018: LiftAroundMissile
+    2300020: LiftControlHandle
+    2300022: LiftTrack 1
+    2300024: LiftTrack1
+    2300026: LiftTrack2
+    2300028: LiftTrack3
+    2300030: lockers1
+    2300032: NoticeBoardFront
+    2300034: OUT_toDessert
+    2300036: pCube478
+    2300038: pCube478 1
+    2300040: pCube490
+    2300042: pCube491
+    2300044: pCube492
+    2300046: pCube493
+    2300048: pCube494
+    2300050: pCube495
+    2300052: pCube496
+    2300054: pCube497
+    2300056: pCube497 1
+    2300058: pCube498
+    2300060: pCube498 1
+    2300062: pCube499
+    2300064: pCube499 1
+    2300066: pCube500
+    2300068: pCube500 1
+    2300070: pCube501
+    2300072: pCube501 1
+    2300074: pCube502
+    2300076: pCube502 1
+    2300078: pCube504
+    2300080: pCube504 1
+    2300082: pCube504 2
+    2300084: pCube504 3
+    2300086: pCube504 4
+    2300088: pCube504 5
+    2300090: pCube507
+    2300092: pCube512
+    2300094: pCube513
+    2300096: pCube514
+    2300098: pCube517
+    2300100: pCube518
+    2300102: pCube518 1
+    2300104: pCube519
+    2300106: pCube519 1
+    2300108: pCube597
+    2300110: pCube597 1
+    2300112: pCube597 10
+    2300114: pCube597 2
+    2300116: pCube597 3
+    2300118: pCube597 4
+    2300120: pCube597 5
+    2300122: pCube597 6
+    2300124: pCube597 7
+    2300126: pCube597 8
+    2300128: pCube597 9
+    2300130: pCube598
+    2300132: pCube598 1
+    2300134: pCube598 10
+    2300136: pCube598 11
+    2300138: pCube598 2
+    2300140: pCube598 3
+    2300142: pCube598 4
+    2300144: pCube598 5
+    2300146: pCube598 6
+    2300148: pCube598 7
+    2300150: pCube598 8
+    2300152: pCube598 9
+    2300154: pCube685
+    2300156: pCube685 1
+    2300158: pCube685 2
+    2300160: pCube685 3
+    2300162: pCube685 4
+    2300164: pCube685 5
+    2300166: pCube686
+    2300168: pCube686 1
+    2300170: pCube686 2
+    2300172: pCube686 3
+    2300174: pCube686 4
+    2300176: pCube686 5
+    2300178: pCube687
+    2300180: pCube687 1
+    2300182: pCube687 2
+    2300184: pCube687 3
+    2300186: pCube687 4
+    2300188: pCube687 5
+    2300190: pCube688
+    2300192: pCube688 1
+    2300194: pCube688 2
+    2300196: pCube688 3
+    2300198: pCube688 4
+    2300200: pCube688 5
+    2300202: pCube689
+    2300204: pCube689 1
+    2300206: pCube689 2
+    2300208: pCube689 3
+    2300210: pCube689 4
+    2300212: pCube689 5
+    2300214: pCube690
+    2300216: pCube690 1
+    2300218: pCube690 2
+    2300220: pCube690 3
+    2300222: pCube690 4
+    2300224: pCube690 5
+    2300226: pCube691
+    2300228: pCube691 1
+    2300230: pCube691 2
+    2300232: pCube691 3
+    2300234: pCube691 4
+    2300236: pCube691 5
+    2300238: pCube692
+    2300240: pCube692 1
+    2300242: pCube692 2
+    2300244: pCube692 3
+    2300246: pCube692 4
+    2300248: pCube692 5
+    2300250: pCube693
+    2300252: pCube693 1
+    2300254: pCube693 2
+    2300256: pCube693 3
+    2300258: pCube693 4
+    2300260: pCube693 5
+    2300262: pCube694
+    2300264: pCube694 1
+    2300266: pCube694 2
+    2300268: pCube694 3
+    2300270: pCube694 4
+    2300272: pCube694 5
+    2300274: pCube695
+    2300276: pCube695 1
+    2300278: pCube695 2
+    2300280: pCube695 3
+    2300282: pCube695 4
+    2300284: pCube695 5
+    2300286: pCube696
+    2300288: pCube696 1
+    2300290: pCube696 2
+    2300292: pCube696 3
+    2300294: pCube696 4
+    2300296: pCube696 5
+    2300298: pCube697
+    2300300: pCube697 1
+    2300302: pCube697 2
+    2300304: pCube697 3
+    2300306: pCube697 4
+    2300308: pCube697 5
+    2300310: pCube700
+    2300312: pCube705
+    2300314: pCube706
+    2300316: pCube707
+    2300318: pCube720
+    2300320: pCube726
+    2300322: pCube726 1
+    2300324: pCube727
+    2300326: pCube727 1
+    2300328: pCube728
+    2300330: pCube728 1
+    2300332: pCube729
+    2300334: pCube731
+    2300336: pCube732
+    2300338: pCube734
+    2300340: pCube735
+    2300342: pCube737
+    2300344: pCube738
+    2300346: pCube739
+    2300348: pCube740
+    2300350: pCube751
+    2300352: pCube786
+    2300354: pCube787
+    2300356: pCube788
+    2300358: pCube789
+    2300360: pCube790
+    2300362: pCube791
+    2300364: pCube792
+    2300366: pCube793
+    2300368: pCube794
+    2300370: pCube795
+    2300372: pCube796
+    2300374: pCube797
+    2300376: pCube798
+    2300378: pCube799
+    2300380: pCube800
+    2300382: pCube801
+    2300384: pCube802
+    2300386: pCube808
+    2300388: pCube810
+    2300390: pCube813
+    2300392: pCube813 1
+    2300394: pCube813 2
+    2300396: pCube815
+    2300398: pCube815 1
+    2300400: pCube815 2
+    2300402: pCube816
+    2300404: pCube816 1
+    2300406: pCube816 2
+    2300408: pCube816 3
+    2300410: pCube816 4
+    2300412: pCube816 5
+    2300414: pCube817
+    2300416: pCube817 1
+    2300418: pCube817 2
+    2300420: pCube818
+    2300422: pCube818 1
+    2300424: pCube818 2
+    2300426: pCube818 3
+    2300428: pCube818 4
+    2300430: pCube818 5
+    2300432: pCube819
+    2300434: pCube819 1
+    2300436: pCube819 2
+    2300438: pCube820
+    2300440: pCube820 1
+    2300442: pCube820 2
+    2300444: pCube820 3
+    2300446: pCube820 4
+    2300448: pCube820 5
+    2300450: pCube822
+    2300452: pCube823
+    2300454: pCube826
+    2300456: pCube827
+    2300458: pCube828
+    2300460: pCube829
+    2300462: pCube830
+    2300464: pCube831
+    2300466: pCube833
+    2300468: pCube834
+    2300470: pCube835
+    2300472: pCube836
+    2300474: pCube841
+    2300476: pCube842
+    2300478: pCube843
+    2300480: pCube844
+    2300482: pCube845
+    2300484: pCylinder149
+    2300486: pCylinder152
+    2300488: pCylinder153
+    2300490: pCylinder154
+    2300492: pCylinder173
+    2300494: pCylinder173 1
+    2300496: pCylinder173 2
+    2300498: pCylinder173 3
+    2300500: pCylinder174
+    2300502: pCylinder174 1
+    2300504: pCylinder174 2
+    2300506: pCylinder174 3
+    2300508: pCylinder207
+    2300510: pCylinder208
+    2300512: pCylinder215
+    2300514: pCylinder220
+    2300516: pCylinder221
+    2300518: pCylinder222
+    2300520: pCylinder223
+    2300522: pCylinder228
+    2300524: pCylinder229
+    2300526: pCylinder229 1
+    2300528: pCylinder229 2
+    2300530: pCylinder231
+    2300532: pCylinder232
+    2300534: pCylinder235
+    2300536: pCylinder236
+    2300538: pCylinder237
+    2300540: pCylinder238
+    2300542: polySurface120
+    2300544: polySurface121
+    2300546: polySurface122
+    2300548: pPipe19
+    2300550: pPipe19 1
+    2300552: pPipe19 2
+    2300554: pPipe19 3
+    2300556: PressureMeter
+    2300558: PressureMeter2 1
+    2300560: PressureMeter3
+    2300562: pressureMeter8
+    2300564: pSphere1
+    2300566: pSphere1 1
+    2300568: pSphere1 2
+    2300570: pSphere1 3
+    2300572: pTorus14
+    2300574: pTorus16
+    2300576: pTorus17
+    2300578: Shell 3
+    2300580: Stand1
+    2300582: Stand2
+    2300584: stool1
+    2300586: stool2
+    2300588: stool3
+    2300590: TopPipe1
+    2300592: TopPipe2
+    2300594: TrashCan
+    2300596: TubeOut
+    2300598: WarningSign
+    3300000: ANM_FanSwitch
+    3300002: ANM_LaunchGate
+    3300004: CNT_pressureTube
+    3300006: CNT_WarningSignRod
+    3300008: LabClock
+    3300010: LabClock1
+    3300012: LabDesk
+    3300014: LabTable
+    3300016: LaunchGateTop
+    3300018: LiftAroundMissile
+    3300020: LiftControlHandle
+    3300022: LiftTrack 1
+    3300024: LiftTrack1
+    3300026: LiftTrack2
+    3300028: LiftTrack3
+    3300030: lockers1
+    3300032: NoticeBoardFront
+    3300034: OUT_toDessert
+    3300036: pCube478
+    3300038: pCube478 1
+    3300040: pCube490
+    3300042: pCube491
+    3300044: pCube492
+    3300046: pCube493
+    3300048: pCube494
+    3300050: pCube495
+    3300052: pCube496
+    3300054: pCube497
+    3300056: pCube497 1
+    3300058: pCube498
+    3300060: pCube498 1
+    3300062: pCube499
+    3300064: pCube499 1
+    3300066: pCube500
+    3300068: pCube500 1
+    3300070: pCube501
+    3300072: pCube501 1
+    3300074: pCube502
+    3300076: pCube502 1
+    3300078: pCube504
+    3300080: pCube504 1
+    3300082: pCube504 2
+    3300084: pCube504 3
+    3300086: pCube504 4
+    3300088: pCube504 5
+    3300090: pCube507
+    3300092: pCube512
+    3300094: pCube513
+    3300096: pCube514
+    3300098: pCube517
+    3300100: pCube518
+    3300102: pCube518 1
+    3300104: pCube519
+    3300106: pCube519 1
+    3300108: pCube597
+    3300110: pCube597 1
+    3300112: pCube597 10
+    3300114: pCube597 2
+    3300116: pCube597 3
+    3300118: pCube597 4
+    3300120: pCube597 5
+    3300122: pCube597 6
+    3300124: pCube597 7
+    3300126: pCube597 8
+    3300128: pCube597 9
+    3300130: pCube598
+    3300132: pCube598 1
+    3300134: pCube598 10
+    3300136: pCube598 11
+    3300138: pCube598 2
+    3300140: pCube598 3
+    3300142: pCube598 4
+    3300144: pCube598 5
+    3300146: pCube598 6
+    3300148: pCube598 7
+    3300150: pCube598 8
+    3300152: pCube598 9
+    3300154: pCube685
+    3300156: pCube685 1
+    3300158: pCube685 2
+    3300160: pCube685 3
+    3300162: pCube685 4
+    3300164: pCube685 5
+    3300166: pCube686
+    3300168: pCube686 1
+    3300170: pCube686 2
+    3300172: pCube686 3
+    3300174: pCube686 4
+    3300176: pCube686 5
+    3300178: pCube687
+    3300180: pCube687 1
+    3300182: pCube687 2
+    3300184: pCube687 3
+    3300186: pCube687 4
+    3300188: pCube687 5
+    3300190: pCube688
+    3300192: pCube688 1
+    3300194: pCube688 2
+    3300196: pCube688 3
+    3300198: pCube688 4
+    3300200: pCube688 5
+    3300202: pCube689
+    3300204: pCube689 1
+    3300206: pCube689 2
+    3300208: pCube689 3
+    3300210: pCube689 4
+    3300212: pCube689 5
+    3300214: pCube690
+    3300216: pCube690 1
+    3300218: pCube690 2
+    3300220: pCube690 3
+    3300222: pCube690 4
+    3300224: pCube690 5
+    3300226: pCube691
+    3300228: pCube691 1
+    3300230: pCube691 2
+    3300232: pCube691 3
+    3300234: pCube691 4
+    3300236: pCube691 5
+    3300238: pCube692
+    3300240: pCube692 1
+    3300242: pCube692 2
+    3300244: pCube692 3
+    3300246: pCube692 4
+    3300248: pCube692 5
+    3300250: pCube693
+    3300252: pCube693 1
+    3300254: pCube693 2
+    3300256: pCube693 3
+    3300258: pCube693 4
+    3300260: pCube693 5
+    3300262: pCube694
+    3300264: pCube694 1
+    3300266: pCube694 2
+    3300268: pCube694 3
+    3300270: pCube694 4
+    3300272: pCube694 5
+    3300274: pCube695
+    3300276: pCube695 1
+    3300278: pCube695 2
+    3300280: pCube695 3
+    3300282: pCube695 4
+    3300284: pCube695 5
+    3300286: pCube696
+    3300288: pCube696 1
+    3300290: pCube696 2
+    3300292: pCube696 3
+    3300294: pCube696 4
+    3300296: pCube696 5
+    3300298: pCube697
+    3300300: pCube697 1
+    3300302: pCube697 2
+    3300304: pCube697 3
+    3300306: pCube697 4
+    3300308: pCube697 5
+    3300310: pCube700
+    3300312: pCube705
+    3300314: pCube706
+    3300316: pCube707
+    3300318: pCube720
+    3300320: pCube726
+    3300322: pCube726 1
+    3300324: pCube727
+    3300326: pCube727 1
+    3300328: pCube728
+    3300330: pCube728 1
+    3300332: pCube729
+    3300334: pCube731
+    3300336: pCube732
+    3300338: pCube734
+    3300340: pCube735
+    3300342: pCube737
+    3300344: pCube738
+    3300346: pCube739
+    3300348: pCube740
+    3300350: pCube751
+    3300352: pCube786
+    3300354: pCube787
+    3300356: pCube788
+    3300358: pCube789
+    3300360: pCube790
+    3300362: pCube791
+    3300364: pCube792
+    3300366: pCube793
+    3300368: pCube794
+    3300370: pCube795
+    3300372: pCube796
+    3300374: pCube797
+    3300376: pCube798
+    3300378: pCube799
+    3300380: pCube800
+    3300382: pCube801
+    3300384: pCube802
+    3300386: pCube808
+    3300388: pCube810
+    3300390: pCube813
+    3300392: pCube813 1
+    3300394: pCube813 2
+    3300396: pCube815
+    3300398: pCube815 1
+    3300400: pCube815 2
+    3300402: pCube816
+    3300404: pCube816 1
+    3300406: pCube816 2
+    3300408: pCube816 3
+    3300410: pCube816 4
+    3300412: pCube816 5
+    3300414: pCube817
+    3300416: pCube817 1
+    3300418: pCube817 2
+    3300420: pCube818
+    3300422: pCube818 1
+    3300424: pCube818 2
+    3300426: pCube818 3
+    3300428: pCube818 4
+    3300430: pCube818 5
+    3300432: pCube819
+    3300434: pCube819 1
+    3300436: pCube819 2
+    3300438: pCube820
+    3300440: pCube820 1
+    3300442: pCube820 2
+    3300444: pCube820 3
+    3300446: pCube820 4
+    3300448: pCube820 5
+    3300450: pCube822
+    3300452: pCube823
+    3300454: pCube826
+    3300456: pCube827
+    3300458: pCube828
+    3300460: pCube829
+    3300462: pCube830
+    3300464: pCube831
+    3300466: pCube833
+    3300468: pCube834
+    3300470: pCube835
+    3300472: pCube836
+    3300474: pCube841
+    3300476: pCube842
+    3300478: pCube843
+    3300480: pCube844
+    3300482: pCube845
+    3300484: pCylinder149
+    3300486: pCylinder152
+    3300488: pCylinder153
+    3300490: pCylinder154
+    3300492: pCylinder173
+    3300494: pCylinder173 1
+    3300496: pCylinder173 2
+    3300498: pCylinder173 3
+    3300500: pCylinder174
+    3300502: pCylinder174 1
+    3300504: pCylinder174 2
+    3300506: pCylinder174 3
+    3300508: pCylinder207
+    3300510: pCylinder208
+    3300512: pCylinder215
+    3300514: pCylinder220
+    3300516: pCylinder221
+    3300518: pCylinder222
+    3300520: pCylinder223
+    3300522: pCylinder228
+    3300524: pCylinder229
+    3300526: pCylinder229 1
+    3300528: pCylinder229 2
+    3300530: pCylinder231
+    3300532: pCylinder232
+    3300534: pCylinder235
+    3300536: pCylinder236
+    3300538: pCylinder237
+    3300540: pCylinder238
+    3300542: polySurface120
+    3300544: polySurface121
+    3300546: polySurface122
+    3300548: pPipe19
+    3300550: pPipe19 1
+    3300552: pPipe19 2
+    3300554: pPipe19 3
+    3300556: PressureMeter
+    3300558: PressureMeter2 1
+    3300560: PressureMeter3
+    3300562: pressureMeter8
+    3300564: pSphere1
+    3300566: pSphere1 1
+    3300568: pSphere1 2
+    3300570: pSphere1 3
+    3300572: pTorus14
+    3300574: pTorus16
+    3300576: pTorus17
+    3300578: Shell 3
+    3300580: Stand1
+    3300582: Stand2
+    3300584: stool1
+    3300586: stool2
+    3300588: stool3
+    3300590: TopPipe1
+    3300592: TopPipe2
+    3300594: TrashCan
+    3300596: TubeOut
+    3300598: WarningSign
+    4300000: pCube597
+    4300002: pCube598
+    4300004: pCube598
+    4300006: pCube597
+    4300008: pCube598
+    4300010: pCube720
+    4300012: pCylinder173
+    4300014: pCylinder174
+    4300016: pPipe19
+    4300018: pSphere1
+    4300020: CNT_WarningSignRod
+    4300022: LiftAroundMissile
+    4300024: pCube793
+    4300026: pCube792
+    4300028: pCube791
+    4300030: pCube790
+    4300032: pCube789
+    4300034: pCube788
+    4300036: pCube787
+    4300038: pCylinder223
+    4300040: pCylinder222
+    4300042: pCylinder221
+    4300044: pCylinder220
+    4300046: pCube786
+    4300048: LiftControlHandle
+    4300050: Stand2
+    4300052: Stand1
+    4300054: pCube810
+    4300056: polySurface121
+    4300058: Shell
+    4300060: OUT_toDessert
+    4300062: pCube492
+    4300064: pCube491
+    4300066: pCube490
+    4300068: pCube493
+    4300070: pCube495
+    4300072: pCube494
+    4300074: pCube496
+    4300076: pCube808
+    4300078: pCube734
+    4300080: pCube735
+    4300082: pCube732
+    4300084: pCube731
+    4300086: pCube512
+    4300088: pCube513
+    4300090: pCube497
+    4300092: pCube478
+    4300094: pCube498
+    4300096: pCube499
+    4300098: pCube500
+    4300100: pCube501
+    4300102: pCube502
+    4300104: pCube497
+    4300106: pCube478
+    4300108: pCube498
+    4300110: pCube499
+    4300112: pCube500
+    4300114: pCube501
+    4300116: pCube502
+    4300118: ANM_FanSwitch
+    4300120: TopPipe1
+    4300122: TopPipe2
+    4300124: WarningSign
+    4300126: pCylinder149
+    4300128: pCube507
+    4300130: pCylinder152
+    4300132: pCube517
+    4300134: pCube688
+    4300136: pCube504
+    4300138: pCube687
+    4300140: pCube686
+    4300142: pCube685
+    4300144: pCube693
+    4300146: pCube697
+    4300148: pCube694
+    4300150: pCube695
+    4300152: pCube696
+    4300154: pCube689
+    4300156: pCube690
+    4300158: pCube691
+    4300160: pCube692
+    4300162: pCube688
+    4300164: pCube504
+    4300166: pCube687
+    4300168: pCube686
+    4300170: pCube685
+    4300172: pCube693
+    4300174: pCube697
+    4300176: pCube694
+    4300178: pCube695
+    4300180: pCube696
+    4300182: pCube689
+    4300184: pCube690
+    4300186: pCube691
+    4300188: pCube692
+    4300190: pCube518
+    4300192: pCube688
+    4300194: pCube504
+    4300196: pCube687
+    4300198: pCube686
+    4300200: pCube685
+    4300202: pCube693
+    4300204: pCube697
+    4300206: pCube694
+    4300208: pCube695
+    4300210: pCube696
+    4300212: pCube689
+    4300214: pCube690
+    4300216: pCube691
+    4300218: pCube692
+    4300220: pCube519
+    4300222: pCube688
+    4300224: pCube504
+    4300226: pCube687
+    4300228: pCube686
+    4300230: pCube685
+    4300232: pCube693
+    4300234: pCube697
+    4300236: pCube694
+    4300238: pCube695
+    4300240: pCube696
+    4300242: pCube689
+    4300244: pCube690
+    4300246: pCube691
+    4300248: pCube692
+    4300250: pCube519
+    4300252: pCube688
+    4300254: pCube504
+    4300256: pCube687
+    4300258: pCube686
+    4300260: pCube685
+    4300262: pCube693
+    4300264: pCube697
+    4300266: pCube694
+    4300268: pCube695
+    4300270: pCube696
+    4300272: pCube689
+    4300274: pCube690
+    4300276: pCube691
+    4300278: pCube692
+    4300280: pCube688
+    4300282: pCube504
+    4300284: pCube687
+    4300286: pCube686
+    4300288: pCube685
+    4300290: pCube693
+    4300292: pCube697
+    4300294: pCube694
+    4300296: pCube695
+    4300298: pCube696
+    4300300: pCube689
+    4300302: pCube690
+    4300304: pCube691
+    4300306: pCube692
+    4300308: pCube518
+    4300310: CNT_pressureTube
+    4300312: LabTable
+    4300314: LaunchGateTop
+    4300316: ANM_LaunchGate
+    4300318: pCube738
+    4300320: pCube739
+    4300322: pCube740
+    4300324: pCylinder215
+    4300326: pCube737
+    4300328: pCube751
+    4300330: pCube822
+    4300332: PressureMeter
+    4300334: pCylinder228
+    4300336: PressureMeter2
+    4300338: PressureMeter3
+    4300340: TubeOut
+    4300342: pTorus17
+    4300344: pTorus16
+    4300346: pTorus14
+    4300348: polySurface120
+    4300350: pressureMeter8
+    4300352: polySurface122
+    4300354: pCube794
+    4300356: pCube795
+    4300358: pCube796
+    4300360: pCube797
+    4300362: pCube798
+    4300364: pCube799
+    4300366: pCube800
+    4300368: pCube801
+    4300370: pCube802
+    4300372: TrashCan
+    4300374: pCylinder231
+    4300376: pCube823
+    4300378: pCylinder232
+    4300380: LabClock1
+    4300382: lockers1
+    4300384: pCube816
+    4300386: pCube820
+    4300388: pCube818
+    4300390: pCube816
+    4300392: pCube815
+    4300394: pCube817
+    4300396: pCube819
+    4300398: pCube820
+    4300400: pCube818
+    4300402: pCylinder229
+    4300404: pCube813
+    4300406: pCube816
+    4300408: pCube820
+    4300410: pCube818
+    4300412: pCube816
+    4300414: pCube815
+    4300416: pCube817
+    4300418: pCube819
+    4300420: pCube820
+    4300422: pCube818
+    4300424: pCylinder229
+    4300426: pCube813
+    4300428: pCube816
+    4300430: pCube820
+    4300432: pCube818
+    4300434: pCube816
+    4300436: pCube815
+    4300438: pCube817
+    4300440: pCube819
+    4300442: pCube820
+    4300444: pCube818
+    4300446: pCylinder229
+    4300448: pCube813
+    4300450: pCube835
+    4300452: pCube836
+    4300454: pCube828
+    4300456: pCube833
+    4300458: pCube834
+    4300460: pCube829
+    4300462: pCube826
+    4300464: pCylinder237
+    4300466: pCube830
+    4300468: pCube726
+    4300470: pCube727
+    4300472: pCube728
+    4300474: pCube726
+    4300476: pCube727
+    4300478: pCube728
+    4300480: pCube729
+    4300482: pCylinder235
+    4300484: pCylinder236
+    4300486: pCube827
+    4300488: pCube831
+    4300490: pCube841
+    4300492: pCube842
+    4300494: pCylinder238
+    4300496: pCube844
+    4300498: pCube843
+    4300500: NoticeBoardFront
+    4300502: LabDesk
+    4300504: LabClock
+    4300506: pCube845
+    4300508: pCube514
+    4300510: pCylinder153
+    4300512: pCylinder154
+    4300514: pCylinder208
+    4300516: pCylinder207
+    4300518: pCube598
+    4300520: pCube597
+    4300522: pCube598
+    4300524: pCube597
+    4300526: pCube598
+    4300528: pCube597
+    4300530: pSphere1
+    4300532: pPipe19
+    4300534: pCylinder174
+    4300536: pCylinder173
+    4300538: pCube598
+    4300540: pCube597
+    4300542: pCube598
+    4300544: pCube597
+    4300546: pCube598
+    4300548: pCube597
+    4300550: pSphere1
+    4300552: pPipe19
+    4300554: pCylinder174
+    4300556: pCylinder173
+    4300558: pCube598
+    4300560: pCube597
+    4300562: pCube598
+    4300564: pCube597
+    4300566: pCube598
+    4300568: pCube597
+    4300570: pSphere1
+    4300572: pPipe19
+    4300574: pCylinder174
+    4300576: pCylinder173
+    4300578: stool1
+    4300580: stool3
+    4300582: stool2
+    4300584: pCube700
+    4300586: pCube705
+    4300588: pCube706
+    4300590: pCube707
+    4300592: LiftTrack3
+    4300594: LiftTrack2
+    4300596: LiftTrack1
+    4300598: LiftTrack
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

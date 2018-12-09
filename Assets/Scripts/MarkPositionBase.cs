@@ -26,6 +26,8 @@ public class MarkPositionBase : MonoBehaviour
     [HideInInspector]
     public int phase = 0;//it is for different animations for different phases
 
+    public Transform[] highlightObjArray;
+
     protected ZoneGroupManager zoneGroupManager;
     protected Transform maskA;
     protected Transform maskB;
@@ -93,7 +95,15 @@ public class MarkPositionBase : MonoBehaviour
             maskC.DOScaleX(24.8f, GameConst.CAMERA_SNAP_DURATION);
             maskC.DOScaleY(24.8f, GameConst.CAMERA_SNAP_DURATION);
         }
+
+        foreach (Transform child in highlightObjArray)
+        {
+            child.GetComponent<MeshRenderer>().material.DOFloat(0.2f, "_HighlightPower", 0.5f);
+            child.GetComponent<MeshRenderer>().material.DOFloat(0, "_HighlightPower", 0.5f).SetDelay(0.5f    );
+        }
     }
+    
+    
     public void DoMaskTransitionOut()
     {
         if (!connectThreeFaces)

@@ -16,6 +16,11 @@ public class GameControlGlobal : UnitySingleton<GameControlGlobal>
 
 	private void Update()
 	{
+		if (waitingIcon == null)
+		{
+			waitingIcon = GameObject.Find("WaitingIcon").transform;
+			return;
+		}
 		if (INTERACTION_IS_ACTIVE)
 		{
 			waitingIcon.GetComponent<Image>().DOFade(0f, 0.2f);

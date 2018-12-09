@@ -15,11 +15,7 @@ public class SaveManager : UnitySingleton<SaveManager> {
     }
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.R))
-        {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-            print(i);
-        }
+
         if (Input.GetKeyDown(KeyCode.S))
         {
             SaveGameData();

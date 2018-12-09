@@ -22,6 +22,7 @@ MonoBehaviour:
   - {fileID: 114162113334392816}
   - {fileID: 114831765199059472}
   - {fileID: 114295495009126386}
+  - {fileID: 114971724531060202}
 --- !u!114 &114049471955364344
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -1641,3 +1642,21 @@ MonoBehaviour:
   lumContrib:
     overrideState: 0
     value: 0.8
+--- !u!114 &114971724531060202
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab22b3400d2f8464d9d467a4e5f30570, type: 3}
+  m_Name: Sharpen
+  m_EditorClassIdentifier: 
+  active: 0
+  enabled:
+    overrideState: 1
+    value: 1
+  amount:
+    overrideState: 0
+    value: 0.5

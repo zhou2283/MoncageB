@@ -4,10 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Mask1
-  - Mask2
-  - Mask3
-  - Mask4
+  - CNT
+  - ANM
+  - MSK
   layers:
   - Default
   - TransparentFX

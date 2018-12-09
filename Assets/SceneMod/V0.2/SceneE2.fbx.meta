@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 8befc82f6105230418c82dafa3d75c50
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArrowSign
+    100002: Bed
+    100004: Chair4
+    100006: Chair5
+    100008: CNT_ArrowSignRod
+    100010: CNT_FirePlaceTube
+    100012: HouseBucket
+    100014: HouseChest
+    100016: HouseDesk
+    100018: HouseDesk 1
+    100020: HouseDeskDrawer
+    100022: HouseDresser
+    100024: HouseDresser 1
+    100026: HouseDresserDrawer
+    100028: HouseDresserDrawer1
+    100030: HouseDresserDrawer2
+    100032: HouseFurnance
+    100034: HouseLongChest
+    100036: HousePictureFrame
+    100038: HouseShell
+    100040: HouseStorage
+    100042: HouseTable
+    100044: Ladders
+    100046: Main
+    100048: Mirror
+    100050: Move0
+    100052: Move0R
+    100054: MUL_CableRoll
+    100056: pCube669
+    100058: pCube676
+    100060: pCube677
+    100062: pCube678
+    100064: polySurface117
+    100066: polySurface118
+    100068: polySurface119
+    100070: Rug
+    100072: //RootNode
+    100074: stool4
+    100076: Stools
+    100078: TableChairs
+    400000: ArrowSign
+    400002: Bed
+    400004: Chair4
+    400006: Chair5
+    400008: CNT_ArrowSignRod
+    400010: CNT_FirePlaceTube
+    400012: HouseBucket
+    400014: HouseChest
+    400016: HouseDesk
+    400018: HouseDesk 1
+    400020: HouseDeskDrawer
+    400022: HouseDresser
+    400024: HouseDresser 1
+    400026: HouseDresserDrawer
+    400028: HouseDresserDrawer1
+    400030: HouseDresserDrawer2
+    400032: HouseFurnance
+    400034: HouseLongChest
+    400036: HousePictureFrame
+    400038: HouseShell
+    400040: HouseStorage
+    400042: HouseTable
+    400044: Ladders
+    400046: Main
+    400048: Mirror
+    400050: Move0
+    400052: Move0R
+    400054: MUL_CableRoll
+    400056: pCube669
+    400058: pCube676
+    400060: pCube677
+    400062: pCube678
+    400064: polySurface117
+    400066: polySurface118
+    400068: polySurface119
+    400070: Rug
+    400072: //RootNode
+    400074: stool4
+    400076: Stools
+    400078: TableChairs
+    2100000: MultiDimension
+    2100002: ConnectPart
+    2100004: lambert1
+    2300000: ArrowSign
+    2300002: Chair4
+    2300004: Chair5
+    2300006: CNT_ArrowSignRod
+    2300008: CNT_FirePlaceTube
+    2300010: HouseBucket
+    2300012: HouseChest
+    2300014: HouseDesk 1
+    2300016: HouseDeskDrawer
+    2300018: HouseDresser 1
+    2300020: HouseDresserDrawer
+    2300022: HouseDresserDrawer1
+    2300024: HouseDresserDrawer2
+    2300026: HouseFurnance
+    2300028: HouseLongChest
+    2300030: HousePictureFrame
+    2300032: HouseShell
+    2300034: HouseTable
+    2300036: Ladders
+    2300038: Mirror
+    2300040: MUL_CableRoll
+    2300042: pCube669
+    2300044: pCube676
+    2300046: pCube677
+    2300048: pCube678
+    2300050: polySurface117
+    2300052: polySurface118
+    2300054: polySurface119
+    2300056: Rug
+    2300058: stool4
+    3300000: ArrowSign
+    3300002: Chair4
+    3300004: Chair5
+    3300006: CNT_ArrowSignRod
+    3300008: CNT_FirePlaceTube
+    3300010: HouseBucket
+    3300012: HouseChest
+    3300014: HouseDesk 1
+    3300016: HouseDeskDrawer
+    3300018: HouseDresser 1
+    3300020: HouseDresserDrawer
+    3300022: HouseDresserDrawer1
+    3300024: HouseDresserDrawer2
+    3300026: HouseFurnance
+    3300028: HouseLongChest
+    3300030: HousePictureFrame
+    3300032: HouseShell
+    3300034: HouseTable
+    3300036: Ladders
+    3300038: Mirror
+    3300040: MUL_CableRoll
+    3300042: pCube669
+    3300044: pCube676
+    3300046: pCube677
+    3300048: pCube678
+    3300050: polySurface117
+    3300052: polySurface118
+    3300054: polySurface119
+    3300056: Rug
+    3300058: stool4
+    4300000: MUL_CableRoll
+    4300002: CNT_FirePlaceTube
+    4300004: CNT_ArrowSignRod
+    4300006: ArrowSign
+    4300008: HouseShell
+    4300010: pCube678
+    4300012: pCube677
+    4300014: pCube676
+    4300016: pCube669
+    4300018: HouseFurnance
+    4300020: Rug
+    4300022: HouseDresserDrawer
+    4300024: HouseDresser
+    4300026: HouseDresserDrawer1
+    4300028: HouseDresserDrawer2
+    4300030: HouseDeskDrawer
+    4300032: HouseDesk
+    4300034: HouseTable
+    4300036: Chair4
+    4300038: Chair5
+    4300040: Mirror
+    4300042: Ladders
+    4300044: HouseBucket
+    4300046: HouseLongChest
+    4300048: HouseChest
+    4300050: HousePictureFrame
+    4300052: stool4
+    4300054: polySurface117
+    4300056: polySurface118
+    4300058: polySurface119
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
