@@ -173,7 +173,7 @@ ModelImporter:
     - serializedVersion: 16
       name: Move
       takeName: Take 001
-      firstFrame: 1
+      firstFrame: 14
       lastFrame: 63
       wrapMode: 0
       orientationOffsetY: 0

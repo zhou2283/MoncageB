@@ -196,9 +196,58 @@ ModelImporter:
     4300062: hammer
     4300064: PickAxe1
     4300066: polySurface104
+    6400000: ANM_Box1
+    6400002: ANM_Box2
+    6400004: ANM_Box3
+    6400006: ANM_Box4
+    6400008: ANM_TireInWell
+    6400010: Barrel
+    6400012: Can
+    6400014: Can1
+    6400016: CNT_PlankInWell
+    6400018: CNT_WireRing
+    6400020: CNT_WireStand
+    6400022: GasLight
+    6400024: hammer
+    6400026: handsaw
+    6400028: pCube857
+    6400030: pCube858
+    6400032: pCube859
+    6400034: pCube863
+    6400036: pCube864
+    6400038: pCube866
+    6400040: pCube886
+    6400042: PickAxe
+    6400044: PickAxe1
+    6400046: PickAxeRope
+    6400048: polySurface104
+    6400050: Scissors
+    6400052: Tape
+    6400054: Tire
+    6400056: WellLadder
+    6400058: WireIn
+    6400060: WireStand1
+    6400062: WireStand2
+    6400064: WireStand3
+    6400066: WireStand4
     7400000: Take 001
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConnectPart
+    second: {fileID: 2100000, guid: 61c467bfa7b1b0c44aa2607785144970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dynamic
+    second: {fileID: 2100000, guid: 31677e157c63af5438537e03ec0718f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: fb672113488a0df45b58fbe8bb8213ce, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -231,7 +280,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -248,7 +297,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
     previousCalculatedGlobalScale: 0.01
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
@@ -256,7 +305,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
