@@ -711,6 +711,10 @@
             <e p="MP1_WireAndWire_3_4.cs" t="Include" />
             <e p="MP2_TrapDoorAndBride_3_4.cs" t="Include" />
             <e p="MP3_CenterPivotAndWellLifter_3_4.cs" t="Include" />
+            <e p="MP4_DoorAndPlank_0_3.cs" t="Include" />
+            <e p="MP5_WireAndWireAndWire_0_1_4.cs" t="Include" />
+            <e p="MP6_TireAndTire_0_2.cs" t="Include" />
+            <e p="MP7_RopeAndLift_1_4.cs" t="Include" />
           </e>
           <e p="SaveManager.cs" t="Include" />
           <e p="SceneBase.cs" t="Include" />

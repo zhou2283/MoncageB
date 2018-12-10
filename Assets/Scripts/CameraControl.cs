@@ -173,10 +173,10 @@ public class CameraControl : MonoBehaviour {
         return canSnap;
     }
 
-    public void ChangeCamera(Vector3 cameraRotation, float duration)
+    public void ChangeCamera(Vector3 cameraRotation, float duration, float delay = 0f)
     {
-        cameraPivotV.DOLocalRotate(new Vector3(cameraRotation.x, 0, 0), duration).SetEase(Ease.InOutCubic);
-        cameraPivotH.DOLocalRotate(new Vector3(0, cameraRotation.y, 0), duration).SetEase(Ease.InOutCubic);
+        cameraPivotV.DOLocalRotate(new Vector3(cameraRotation.x, 0, 0), duration).SetEase(Ease.InOutCubic).SetDelay(delay);
+        cameraPivotH.DOLocalRotate(new Vector3(0, cameraRotation.y, 0), duration).SetEase(Ease.InOutCubic).SetDelay(delay);
     }
 
     void DoTargetEvent()

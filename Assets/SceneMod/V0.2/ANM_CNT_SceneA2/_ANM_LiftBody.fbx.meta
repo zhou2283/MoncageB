@@ -94,6 +94,22 @@ ModelImporter:
     4300026: ANM_LiftControlHandle
     4300028: Stand2
     4300030: Stand1
+    6400000: ANM_LiftControlHandle
+    6400002: LiftAroundMissile
+    6400004: pCube786
+    6400006: pCube787
+    6400008: pCube788
+    6400010: pCube789
+    6400012: pCube790
+    6400014: pCube791
+    6400016: pCube792
+    6400018: pCube793
+    6400020: pCylinder220
+    6400022: pCylinder221
+    6400024: pCylinder222
+    6400026: pCylinder223
+    6400028: Stand1
+    6400030: Stand2
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
@@ -129,7 +145,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -146,8 +162,8 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60

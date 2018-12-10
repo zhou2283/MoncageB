@@ -35,7 +35,17 @@ ModelImporter:
     4300004: Egg1
     4300006: Egg2
     4300008: NestStraw
-  externalObjects: {}
+    6400000: Egg
+    6400002: Egg1
+    6400004: Egg2
+    6400006: NestBase
+    6400008: NestStraw
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dynamic
+    second: {fileID: 2100000, guid: 31677e157c63af5438537e03ec0718f9, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -68,7 +78,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -85,7 +95,7 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:

@@ -26,6 +26,9 @@ ModelImporter:
     4300000: ANM_ArrowSign
     4300002: ANM_WarningSign
     4300004: CNT_WarningSignRod
+    6400000: ANM_ArrowSign
+    6400002: ANM_WarningSign
+    6400004: CNT_WarningSignRod
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
@@ -61,7 +64,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -78,8 +81,8 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60

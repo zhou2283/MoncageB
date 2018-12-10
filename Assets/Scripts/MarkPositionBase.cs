@@ -99,7 +99,7 @@ public class MarkPositionBase : MonoBehaviour
         foreach (Transform child in highlightObjArray)
         {
             child.GetComponent<MeshRenderer>().material.DOFloat(0.2f, "_HighlightPower", 0.5f);
-            child.GetComponent<MeshRenderer>().material.DOFloat(0, "_HighlightPower", 0.5f).SetDelay(0.5f    );
+            child.GetComponent<MeshRenderer>().material.DOFloat(0, "_HighlightPower", 0.5f).SetDelay(0.5f);
         }
     }
     
@@ -195,6 +195,7 @@ public class MarkPositionBase : MonoBehaviour
         return true;
     }
 
+    
     public virtual float DoEvent()//return the wait time
     {
         //active exit function
@@ -202,6 +203,8 @@ public class MarkPositionBase : MonoBehaviour
         //change phase
         return 0f;
     }
+    
+
 
     public virtual void DoExitEvent()
     {
@@ -236,4 +239,6 @@ public class MarkPositionBase : MonoBehaviour
         phase = _phase;
         //extra things to do?
     }
+
+
 }

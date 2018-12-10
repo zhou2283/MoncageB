@@ -1740,9 +1740,340 @@ ModelImporter:
     4300596: LiftTrack2
     4300598: LiftTrack1
     4300600: LiftTrack
+    6400000: ANM_ArrowSign
+    6400002: ANM_FanSwitch
+    6400004: ANM_LaunchGate
+    6400006: ANM_LiftControlHandle
+    6400008: ANM_WarningSign
+    6400010: CNT_pressureTube
+    6400012: CNT_WarningSignRod
+    6400014: LabClock
+    6400016: LabClock1
+    6400018: LabDesk
+    6400020: LabTable
+    6400022: LaunchGateTop
+    6400024: LiftAroundMissile
+    6400026: LiftTrack 1
+    6400028: LiftTrack1
+    6400030: LiftTrack2
+    6400032: LiftTrack3
+    6400034: lockers1
+    6400036: NoticeBoardFront
+    6400038: OUT_toDessert
+    6400040: pCube478
+    6400042: pCube478 1
+    6400044: pCube490
+    6400046: pCube491
+    6400048: pCube492
+    6400050: pCube493
+    6400052: pCube494
+    6400054: pCube495
+    6400056: pCube496
+    6400058: pCube497
+    6400060: pCube497 1
+    6400062: pCube498
+    6400064: pCube498 1
+    6400066: pCube499
+    6400068: pCube499 1
+    6400070: pCube500
+    6400072: pCube500 1
+    6400074: pCube501
+    6400076: pCube501 1
+    6400078: pCube502
+    6400080: pCube502 1
+    6400082: pCube504
+    6400084: pCube504 1
+    6400086: pCube504 2
+    6400088: pCube504 3
+    6400090: pCube504 4
+    6400092: pCube504 5
+    6400094: pCube507
+    6400096: pCube512
+    6400098: pCube513
+    6400100: pCube514
+    6400102: pCube517
+    6400104: pCube518
+    6400106: pCube518 1
+    6400108: pCube519
+    6400110: pCube519 1
+    6400112: pCube597
+    6400114: pCube597 1
+    6400116: pCube597 10
+    6400118: pCube597 2
+    6400120: pCube597 3
+    6400122: pCube597 4
+    6400124: pCube597 5
+    6400126: pCube597 6
+    6400128: pCube597 7
+    6400130: pCube597 8
+    6400132: pCube597 9
+    6400134: pCube598
+    6400136: pCube598 1
+    6400138: pCube598 10
+    6400140: pCube598 11
+    6400142: pCube598 2
+    6400144: pCube598 3
+    6400146: pCube598 4
+    6400148: pCube598 5
+    6400150: pCube598 6
+    6400152: pCube598 7
+    6400154: pCube598 8
+    6400156: pCube598 9
+    6400158: pCube685
+    6400160: pCube685 1
+    6400162: pCube685 2
+    6400164: pCube685 3
+    6400166: pCube685 4
+    6400168: pCube685 5
+    6400170: pCube686
+    6400172: pCube686 1
+    6400174: pCube686 2
+    6400176: pCube686 3
+    6400178: pCube686 4
+    6400180: pCube686 5
+    6400182: pCube687
+    6400184: pCube687 1
+    6400186: pCube687 2
+    6400188: pCube687 3
+    6400190: pCube687 4
+    6400192: pCube687 5
+    6400194: pCube688
+    6400196: pCube688 1
+    6400198: pCube688 2
+    6400200: pCube688 3
+    6400202: pCube688 4
+    6400204: pCube688 5
+    6400206: pCube689
+    6400208: pCube689 1
+    6400210: pCube689 2
+    6400212: pCube689 3
+    6400214: pCube689 4
+    6400216: pCube689 5
+    6400218: pCube690
+    6400220: pCube690 1
+    6400222: pCube690 2
+    6400224: pCube690 3
+    6400226: pCube690 4
+    6400228: pCube690 5
+    6400230: pCube691
+    6400232: pCube691 1
+    6400234: pCube691 2
+    6400236: pCube691 3
+    6400238: pCube691 4
+    6400240: pCube691 5
+    6400242: pCube692
+    6400244: pCube692 1
+    6400246: pCube692 2
+    6400248: pCube692 3
+    6400250: pCube692 4
+    6400252: pCube692 5
+    6400254: pCube693
+    6400256: pCube693 1
+    6400258: pCube693 2
+    6400260: pCube693 3
+    6400262: pCube693 4
+    6400264: pCube693 5
+    6400266: pCube694
+    6400268: pCube694 1
+    6400270: pCube694 2
+    6400272: pCube694 3
+    6400274: pCube694 4
+    6400276: pCube694 5
+    6400278: pCube695
+    6400280: pCube695 1
+    6400282: pCube695 2
+    6400284: pCube695 3
+    6400286: pCube695 4
+    6400288: pCube695 5
+    6400290: pCube696
+    6400292: pCube696 1
+    6400294: pCube696 2
+    6400296: pCube696 3
+    6400298: pCube696 4
+    6400300: pCube696 5
+    6400302: pCube697
+    6400304: pCube697 1
+    6400306: pCube697 2
+    6400308: pCube697 3
+    6400310: pCube697 4
+    6400312: pCube697 5
+    6400314: pCube700
+    6400316: pCube705
+    6400318: pCube706
+    6400320: pCube707
+    6400322: pCube720
+    6400324: pCube726
+    6400326: pCube726 1
+    6400328: pCube727
+    6400330: pCube727 1
+    6400332: pCube728
+    6400334: pCube728 1
+    6400336: pCube729
+    6400338: pCube731
+    6400340: pCube732
+    6400342: pCube734
+    6400344: pCube735
+    6400346: pCube737
+    6400348: pCube738
+    6400350: pCube739
+    6400352: pCube740
+    6400354: pCube751
+    6400356: pCube786
+    6400358: pCube787
+    6400360: pCube788
+    6400362: pCube789
+    6400364: pCube790
+    6400366: pCube791
+    6400368: pCube792
+    6400370: pCube793
+    6400372: pCube794
+    6400374: pCube795
+    6400376: pCube796
+    6400378: pCube797
+    6400380: pCube798
+    6400382: pCube799
+    6400384: pCube800
+    6400386: pCube801
+    6400388: pCube802
+    6400390: pCube808
+    6400392: pCube810
+    6400394: pCube813
+    6400396: pCube813 1
+    6400398: pCube813 2
+    6400400: pCube815
+    6400402: pCube815 1
+    6400404: pCube815 2
+    6400406: pCube816
+    6400408: pCube816 1
+    6400410: pCube816 2
+    6400412: pCube816 3
+    6400414: pCube816 4
+    6400416: pCube816 5
+    6400418: pCube817
+    6400420: pCube817 1
+    6400422: pCube817 2
+    6400424: pCube818
+    6400426: pCube818 1
+    6400428: pCube818 2
+    6400430: pCube818 3
+    6400432: pCube818 4
+    6400434: pCube818 5
+    6400436: pCube819
+    6400438: pCube819 1
+    6400440: pCube819 2
+    6400442: pCube820
+    6400444: pCube820 1
+    6400446: pCube820 2
+    6400448: pCube820 3
+    6400450: pCube820 4
+    6400452: pCube820 5
+    6400454: pCube822
+    6400456: pCube823
+    6400458: pCube826
+    6400460: pCube827
+    6400462: pCube828
+    6400464: pCube829
+    6400466: pCube830
+    6400468: pCube831
+    6400470: pCube833
+    6400472: pCube834
+    6400474: pCube835
+    6400476: pCube836
+    6400478: pCube841
+    6400480: pCube842
+    6400482: pCube843
+    6400484: pCube844
+    6400486: pCube845
+    6400488: pCylinder149
+    6400490: pCylinder152
+    6400492: pCylinder153
+    6400494: pCylinder154
+    6400496: pCylinder173
+    6400498: pCylinder173 1
+    6400500: pCylinder173 2
+    6400502: pCylinder173 3
+    6400504: pCylinder174
+    6400506: pCylinder174 1
+    6400508: pCylinder174 2
+    6400510: pCylinder174 3
+    6400512: pCylinder207
+    6400514: pCylinder208
+    6400516: pCylinder215
+    6400518: pCylinder220
+    6400520: pCylinder221
+    6400522: pCylinder222
+    6400524: pCylinder223
+    6400526: pCylinder228
+    6400528: pCylinder229
+    6400530: pCylinder229 1
+    6400532: pCylinder229 2
+    6400534: pCylinder231
+    6400536: pCylinder232
+    6400538: pCylinder235
+    6400540: pCylinder236
+    6400542: pCylinder237
+    6400544: pCylinder238
+    6400546: polySurface120
+    6400548: polySurface121
+    6400550: polySurface122
+    6400552: pPipe19
+    6400554: pPipe19 1
+    6400556: pPipe19 2
+    6400558: pPipe19 3
+    6400560: PressureMeter
+    6400562: PressureMeter2 1
+    6400564: PressureMeter3
+    6400566: pressureMeter8
+    6400568: pSphere1
+    6400570: pSphere1 1
+    6400572: pSphere1 2
+    6400574: pSphere1 3
+    6400576: pTorus14
+    6400578: pTorus16
+    6400580: pTorus17
+    6400582: Shell 3
+    6400584: Stand1
+    6400586: Stand2
+    6400588: stool1
+    6400590: stool2
+    6400592: stool3
+    6400594: TopPipe1
+    6400596: TopPipe2
+    6400598: TrashCan
+    6400600: TubeOut
     7400000: Take 001
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConnectPart
+    second: {fileID: 2100000, guid: 61c467bfa7b1b0c44aa2607785144970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dynamic
+    second: {fileID: 2100000, guid: 31677e157c63af5438537e03ec0718f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 70605c4e3c82b664f94c72f52ca52730, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteMask
+    second: {fileID: 2100000, guid: ae56f0b1120ebe244882984d1e1c7241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: fb672113488a0df45b58fbe8bb8213ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: ae56f0b1120ebe244882984d1e1c7241, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -1775,7 +2106,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -1792,15 +2123,15 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

@@ -203,6 +203,36 @@ ModelImporter:
     4300054: pPipe19
     4300056: pCylinder174
     4300058: pCylinder173
+    6400000: pCube597
+    6400002: pCube597 1
+    6400004: pCube597 2
+    6400006: pCube597 3
+    6400008: pCube597 4
+    6400010: pCube597 5
+    6400012: pCube597 6
+    6400014: pCube597 7
+    6400016: pCube597 8
+    6400018: pCube598
+    6400020: pCube598 1
+    6400022: pCube598 2
+    6400024: pCube598 3
+    6400026: pCube598 4
+    6400028: pCube598 5
+    6400030: pCube598 6
+    6400032: pCube598 7
+    6400034: pCube598 8
+    6400036: pCylinder173
+    6400038: pCylinder173 1
+    6400040: pCylinder173 2
+    6400042: pCylinder174
+    6400044: pCylinder174 1
+    6400046: pCylinder174 2
+    6400048: pPipe19
+    6400050: pPipe19 1
+    6400052: pPipe19 2
+    6400054: pSphere1
+    6400056: pSphere1 1
+    6400058: pSphere1 2
     7400000: Take 001
     9500000: //RootNode
   externalObjects: {}
@@ -238,7 +268,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -255,8 +285,8 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60

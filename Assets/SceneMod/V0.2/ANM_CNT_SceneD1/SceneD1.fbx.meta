@@ -1466,9 +1466,326 @@ ModelImporter:
     4300548: pCube598
     4300550: pCube597
     4300552: ANM_Tire
+    6400000: ANM_Tire
+    6400002: Body
+    6400004: bottom
+    6400006: Chimney
+    6400008: CNT_FirePlaceTube1
+    6400010: CNT_SliderBody
+    6400012: CNT_Tube1
+    6400014: CNT_Tube2
+    6400016: CNT_Tube3
+    6400018: Egg
+    6400020: Egg1
+    6400022: Egg2
+    6400024: fishBucket
+    6400026: fishLine
+    6400028: Front
+    6400030: Ground
+    6400032: HorizontalPivot
+    6400034: IslandBase
+    6400036: LightHouse
+    6400038: MSK_InCave
+    6400040: NestBase
+    6400042: NestStraw
+    6400044: OutFanBody
+    6400046: pCube344
+    6400048: pCube344 1
+    6400050: pCube345
+    6400052: pCube345 1
+    6400054: pCube346
+    6400056: pCube346 1
+    6400058: pCube347
+    6400060: pCube347 1
+    6400062: pCube348
+    6400064: pCube348 1
+    6400066: pCube349
+    6400068: pCube349 1
+    6400070: pCube350
+    6400072: pCube350 1
+    6400074: pCube355
+    6400076: pCube355 1
+    6400078: pCube356
+    6400080: pCube363
+    6400082: pCube368
+    6400084: pCube369
+    6400086: pCube370
+    6400088: pCube371
+    6400090: pCube372
+    6400092: pCube373
+    6400094: pCube374
+    6400096: pCube375
+    6400098: pCube376
+    6400100: pCube377
+    6400102: pCube378
+    6400104: pCube379
+    6400106: pCube380
+    6400108: pCube381
+    6400110: pCube382
+    6400112: pCube383
+    6400114: pCube384
+    6400116: pCube385
+    6400118: pCube386
+    6400120: pCube387
+    6400122: pCube388
+    6400124: pCube389
+    6400126: pCube390
+    6400128: pCube391
+    6400130: pCube392
+    6400132: pCube393
+    6400134: pCube394
+    6400136: pCube395
+    6400138: pCube396
+    6400140: pCube397
+    6400142: pCube399
+    6400144: pCube400
+    6400146: pCube401
+    6400148: pCube402
+    6400150: pCube403
+    6400152: pCube404
+    6400154: pCube405
+    6400156: pCube406
+    6400158: pCube407
+    6400160: pCube410
+    6400162: pCube411
+    6400164: pCube412
+    6400166: pCube413
+    6400168: pCube414
+    6400170: pCube415
+    6400172: pCube416
+    6400174: pCube417
+    6400176: pCube418
+    6400178: pCube419
+    6400180: pCube420
+    6400182: pCube421
+    6400184: pCube422
+    6400186: pCube423
+    6400188: pCube424
+    6400190: pCube425
+    6400192: pCube426
+    6400194: pCube427
+    6400196: pCube428
+    6400198: pCube429
+    6400200: pCube430
+    6400202: pCube431
+    6400204: pCube432
+    6400206: pCube433
+    6400208: pCube434
+    6400210: pCube435
+    6400212: pCube436
+    6400214: pCube437
+    6400216: pCube439
+    6400218: pCube440
+    6400220: pCube441
+    6400222: pCube442
+    6400224: pCube443
+    6400226: pCube444
+    6400228: pCube445
+    6400230: pCube446
+    6400232: pCube447
+    6400234: pCube448
+    6400236: pCube449
+    6400238: pCube450
+    6400240: pCube451
+    6400242: pCube452
+    6400244: pCube454
+    6400246: pCube455
+    6400248: pCube456
+    6400250: pCube457
+    6400252: pCube458
+    6400254: pCube459
+    6400256: pCube460
+    6400258: pCube461
+    6400260: pCube462
+    6400262: pCube463
+    6400264: pCube464
+    6400266: pCube465
+    6400268: pCube466
+    6400270: pCube467
+    6400272: pCube468
+    6400274: pCube469
+    6400276: pCube470
+    6400278: pCube472
+    6400280: pCube473
+    6400282: pCube474
+    6400284: pCube522
+    6400286: pCube523
+    6400288: pCube524
+    6400290: pCube525
+    6400292: pCube526
+    6400294: pCube527
+    6400296: pCube528
+    6400298: pCube529
+    6400300: pCube530
+    6400302: pCube531
+    6400304: pCube532
+    6400306: pCube533
+    6400308: pCube534
+    6400310: pCube535
+    6400312: pCube536
+    6400314: pCube537
+    6400316: pCube538
+    6400318: pCube539
+    6400320: pCube540
+    6400322: pCube541
+    6400324: pCube542
+    6400326: pCube543
+    6400328: pCube544
+    6400330: pCube545
+    6400332: pCube546
+    6400334: pCube547
+    6400336: pCube548
+    6400338: pCube549
+    6400340: pCube550
+    6400342: pCube551
+    6400344: pCube552
+    6400346: pCube553
+    6400348: pCube554
+    6400350: pCube555
+    6400352: pCube556
+    6400354: pCube557
+    6400356: pCube558
+    6400358: pCube559
+    6400360: pCube560
+    6400362: pCube561
+    6400364: pCube562
+    6400366: pCube563
+    6400368: pCube564
+    6400370: pCube565
+    6400372: pCube566
+    6400374: pCube567
+    6400376: pCube568
+    6400378: pCube569
+    6400380: pCube570
+    6400382: pCube571
+    6400384: pCube572
+    6400386: pCube573
+    6400388: pCube574
+    6400390: pCube576
+    6400392: pCube578
+    6400394: pCube579
+    6400396: pCube580
+    6400398: pCube581
+    6400400: pCube582
+    6400402: pCube583
+    6400404: pCube584
+    6400406: pCube585
+    6400408: pCube586
+    6400410: pCube587
+    6400412: pCube588
+    6400414: pCube589
+    6400416: pCube590
+    6400418: pCube591
+    6400420: pCube592
+    6400422: pCube593
+    6400424: pCube597
+    6400426: pCube598
+    6400428: pCube721
+    6400430: pCube722
+    6400432: pCube723
+    6400434: pCylinder127
+    6400436: pCylinder128
+    6400438: pCylinder129
+    6400440: pCylinder130
+    6400442: pCylinder131
+    6400444: pCylinder132
+    6400446: pCylinder133
+    6400448: pCylinder134
+    6400450: pCylinder135
+    6400452: pCylinder136
+    6400454: pCylinder137
+    6400456: pCylinder142
+    6400458: pCylinder156
+    6400460: pCylinder157
+    6400462: pCylinder158
+    6400464: pCylinder159
+    6400466: pCylinder160
+    6400468: pCylinder161
+    6400470: pCylinder162
+    6400472: pCylinder163
+    6400474: pCylinder164
+    6400476: pCylinder165
+    6400478: pCylinder166
+    6400480: pCylinder167
+    6400482: pCylinder168
+    6400484: pCylinder169
+    6400486: pCylinder173
+    6400488: pCylinder174
+    6400490: pCylinder175
+    6400492: pCylinder211
+    6400494: pCylinder212
+    6400496: PL_WeaponPart
+    6400498: polySurface106
+    6400500: polySurface107
+    6400502: polySurface110
+    6400504: polySurface111
+    6400506: pPipe11
+    6400508: pPipe12
+    6400510: pPipe13
+    6400512: pPipe14
+    6400514: pPipe15
+    6400516: pPipe16
+    6400518: pTorus10
+    6400520: pTorus11
+    6400522: pTorus12
+    6400524: pTorus7
+    6400526: pTorus8
+    6400528: pTorus9
+    6400530: River
+    6400532: rod
+    6400534: side1
+    6400536: Side2
+    6400538: Side3
+    6400540: stand
+    6400542: tree
+    6400544: tree1
+    6400546: tree2
+    6400548: tree3
+    6400550: tree4
+    6400552: VerticalPivot
     7400000: Take 001
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ConnectPart
+    second: {fileID: 2100000, guid: 31677e157c63af5438537e03ec0718f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dynamic
+    second: {fileID: 2100000, guid: 31677e157c63af5438537e03ec0718f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NeedToFind
+    second: {fileID: 2100000, guid: 31677e157c63af5438537e03ec0718f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlaceHolder
+    second: {fileID: 2100000, guid: 31677e157c63af5438537e03ec0718f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water
+    second: {fileID: 2100000, guid: fb672113488a0df45b58fbe8bb8213ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteMask
+    second: {fileID: 2100000, guid: ae56f0b1120ebe244882984d1e1c7241, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: fb672113488a0df45b58fbe8bb8213ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: fb672113488a0df45b58fbe8bb8213ce, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -1501,7 +1818,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -1518,15 +1835,15 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
